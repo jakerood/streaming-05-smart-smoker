@@ -1,7 +1,7 @@
 # streaming-05-smart-smoker
 
 > Name: Jake Rood \
-Date: May 29, 2024
+Date: June 2, 2024
 
 Streaming data may come from web analytics, social media, smart devices, and more. In the next two modules, we'll look at implementing analytics for a "smart smoker" (as in slow cooked food). 
 
@@ -56,3 +56,47 @@ Make sure you can see the .venv name in your terminal prompt before running this
 ```shell
 python3 -m pip install -r requirements.txt
 ```
+
+## RabbitMQ Admin
+
+RabbitMQ comes with an admin panel. When you run the BBQ producer, reply y to open it.
+
+## BBQ Producer
+
+We want to stream information from a smart smoker. Information is stored in the "smoker-temps.csv" file. Read one value every half minute (sleep_secs = 30).
+
+"smoker-temps.csv" has 4 columns:
+
+[0] Time = Date-time stamp for the sensor reading\
+[1] Channel1 = Smoker Temp --> send to message queue "01-smoker"\
+[2] Channel2 = Food A Temp --> send to message queue "02-food-A"\
+[3] Channel3 = Food B Temp --> send to message queue "03-food-B"
+
+The file "bbq_producer.py" is the producer for this process. The script reads the values from the "smoker-temps.csv" file and sends the messages to appropriate queue.
+
+To run the producer, open a terminal and run the following command:
+
+```shell
+python3 bbq_producer.py
+```
+
+The program will begin reading values from the CSV file and sending messages to the appropriate queue. Hit `CTRL+C` to manually interrupt the process.
+
+For now, do not worry about a consumer receiving the messages. We will address this in the next module.
+
+## Screenshot of BBQ Producer Running
+Below is an example of the BBQ Producer running in a terminal and sending messages to the appropraite queues:
+
+![Screenshot of BBQ Producer Running](screenshot.png)
+
+## Sync Changes to GitHub
+Now it's time to get the local work you did on your machine back up to your cloud repo in GitHub:
+
+1. On the VS Code side panel, click the source control icon (look for a blue bubble with a number in it).
+1. Important! Above the Commit button, it will say "Message".
+1. You MUST include a commit message.
+1. Click the down arrow on the blue "Commit" button to "Commit and Push" to your GitHub repo.
+
+Verify: Open a browser to your GitHub repo and verify the changes have appeared.
+
+Note: You can either sync all your changes at once at the end of the project OR you can sync your changes after completing each task individually.
