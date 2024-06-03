@@ -1,0 +1,52 @@
+2024-06-02 20:21:12,251.bbq_producer.INFO ==================================================
+2024-06-02 20:21:12,251.bbq_producer.INFO Today is 2024-06-02 at 08:21 PM
+2024-06-02 20:21:12,252.bbq_producer.INFO Running on: posix Darwin 20.6.0
+2024-06-02 20:21:12,252.bbq_producer.INFO Python version:  3.11.4
+2024-06-02 20:21:12,252.bbq_producer.INFO Python path: /Users/jakerood/streaming-05-smart-smoker/.venv
+2024-06-02 20:21:12,252.bbq_producer.INFO Working dir: /Users/jakerood/streaming-05-smart-smoker
+2024-06-02 20:21:12,252.bbq_producer.INFO ==================================================
+2024-06-02 20:21:14,103.bbq_producer.INFO Opened the RabbitMQ Admin website.
+2024-06-02 20:21:14,571.bbq_producer.INFO  [x] Sent 84.2 to 01-smoker
+2024-06-02 20:21:44,670.bbq_producer.INFO  [x] Sent 84.2 to 01-smoker
+2024-06-02 20:22:14,688.bbq_producer.INFO  [x] Sent 87.6 to 01-smoker
+2024-06-02 20:22:44,703.bbq_producer.INFO  [x] Sent 87.6 to 01-smoker
+2024-06-02 20:23:14,772.bbq_producer.INFO  [x] Sent 86.3 to 01-smoker
+2024-06-02 20:23:44,791.bbq_producer.INFO  [x] Sent 86.3 to 01-smoker
+2024-06-02 20:24:14,808.bbq_producer.INFO  [x] Sent 92.0 to 01-smoker
+2024-06-02 20:24:44,828.bbq_producer.INFO  [x] Sent 92.0 to 01-smoker
+2024-06-02 20:25:14,842.bbq_producer.INFO  [x] Sent 96.8 to 01-smoker
+2024-06-02 20:25:44,860.bbq_producer.INFO  [x] Sent 96.8 to 01-smoker
+2024-06-02 20:26:14,874.bbq_producer.INFO  [x] Sent 100.6 to 01-smoker
+2024-06-02 20:26:44,954.bbq_producer.INFO  [x] Sent 100.9 to 01-smoker
+2024-06-02 20:27:14,977.bbq_producer.INFO  [x] Sent 100.9 to 01-smoker
+2024-06-02 20:27:44,989.bbq_producer.INFO  [x] Sent 104.8 to 01-smoker
+2024-06-02 20:28:15,003.bbq_producer.INFO  [x] Sent 104.8 to 01-smoker
+2024-06-02 20:28:45,014.bbq_producer.INFO  [x] Sent 108.2 to 01-smoker
+2024-06-02 20:29:15,069.bbq_producer.INFO  [x] Sent 108.2 to 01-smoker
+2024-06-02 20:29:45,080.bbq_producer.INFO  [x] Sent 111.4 to 01-smoker
+2024-06-02 20:30:15,091.bbq_producer.INFO  [x] Sent 111.4 to 01-smoker
+2024-06-02 20:30:45,113.bbq_producer.INFO  [x] Sent 114.2 to 01-smoker
+2024-06-02 20:31:15,127.bbq_producer.INFO  [x] Sent 114.2 to 01-smoker
+2024-06-02 20:31:45,161.bbq_producer.INFO  [x] Sent 116.9 to 01-smoker
+2024-06-02 20:32:15,177.bbq_producer.INFO  [x] Sent 116.9 to 01-smoker
+2024-06-02 20:32:45,191.bbq_producer.INFO  [x] Sent 119.4 to 01-smoker
+2024-06-02 20:33:15,204.bbq_producer.INFO  [x] Sent 119.4 to 01-smoker
+2024-06-02 20:33:45,214.bbq_producer.INFO  [x] Sent 120.1 to 01-smoker
+2024-06-02 20:34:15,224.bbq_producer.INFO  [x] Sent 120.1 to 01-smoker
+2024-06-02 20:34:45,263.bbq_producer.INFO  [x] Sent 106.2 to 01-smoker
+2024-06-02 20:35:15,278.bbq_producer.INFO  [x] Sent 106.2 to 01-smoker
+2024-06-02 20:35:45,292.bbq_producer.INFO  [x] Sent 103.5 to 01-smoker
+2024-06-02 20:36:15,308.bbq_producer.INFO  [x] Sent 103.5 to 01-smoker
+2024-06-02 20:36:45,361.bbq_producer.INFO  [x] Sent 105.3 to 01-smoker
+2024-06-02 20:37:15,378.bbq_producer.INFO  [x] Sent 105.3 to 01-smoker
+2024-06-02 20:37:45,389.bbq_producer.INFO  [x] Sent 106.9 to 01-smoker
+2024-06-02 20:38:15,403.bbq_producer.INFO  [x] Sent 106.9 to 01-smoker
+2024-06-02 20:38:45,430.bbq_producer.INFO  [x] Sent 111.9 to 01-smoker
+2024-06-02 20:39:15,445.bbq_producer.INFO  [x] Sent 111.9 to 01-smoker
+2024-06-02 20:39:45,458.bbq_producer.INFO  [x] Sent 114.2 to 01-smoker
+2024-06-02 20:40:15,480.bbq_producer.INFO  [x] Sent 114.2 to 01-smoker
+2024-06-02 20:40:45,517.bbq_producer.INFO  [x] Sent 115.5 to 01-smoker
+2024-06-02 20:41:15,536.bbq_producer.INFO  [x] Sent 115.5 to 01-smoker
+2024-06-02 20:41:45,550.bbq_producer.INFO  [x] Sent 112.6 to 01-smoker
+2024-06-02 20:42:15,568.bbq_producer.INFO  [x] Sent 112.6 to 01-smoker
+2024-06-02 20:42:45,581.bbq_producer.INFO  [x] Sent 118.8 to 01-smoker
