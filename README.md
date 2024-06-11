@@ -138,7 +138,7 @@ Below is an example of the BBQ Producer, Smoker Consumer, Food A Consumer and Fo
 
 ### Screenshot of Smoker Alert
 
-Below is an example of the Smoker Consumer sending a Smoker Alert (see top righ terminal). A Smoker Alert is triggered if the smoker temperature decreases by more than 15 degrees F in 2.5 minutes.
+Below is an example of the Smoker Consumer sending a Smoker Alert (see top right terminal). A Smoker Alert is triggered if the smoker temperature decreases by more than 15 degrees F in 2.5 minutes.
 
 ![Screenshot of Smoker Alert](screenshots/smoker_alert_screenshot.png)
 
