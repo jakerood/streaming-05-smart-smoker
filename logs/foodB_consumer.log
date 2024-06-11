@@ -1,0 +1,902 @@
+2024-06-11 15:31:17,002.foodB_consumer.INFO ==================================================
+2024-06-11 15:31:17,002.foodB_consumer.INFO Today is 2024-06-11 at 03:31 PM
+2024-06-11 15:31:17,002.foodB_consumer.INFO Running on: posix Darwin 20.6.0
+2024-06-11 15:31:17,002.foodB_consumer.INFO Python version:  3.11.4
+2024-06-11 15:31:17,003.foodB_consumer.INFO Python path: /Users/jakerood/streaming-05-smart-smoker/.venv
+2024-06-11 15:31:17,003.foodB_consumer.INFO Working dir: /Users/jakerood/streaming-05-smart-smoker
+2024-06-11 15:31:17,003.foodB_consumer.INFO ==================================================
+2024-06-11 15:31:17,014.foodB_consumer.INFO  [*] Waiting for food B temperature messages. To exit press CTRL+C
+2024-06-11 15:40:14,770.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:46:40 is 37.0
+2024-06-11 15:40:17,786.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:46:45 is 37.0
+2024-06-11 15:40:29,858.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:47:40 is 35.3
+2024-06-11 15:40:32,869.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:47:45 is 35.3
+2024-06-11 15:40:44,943.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:48:40 is 35.2
+2024-06-11 15:40:47,961.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:48:45 is 35.2
+2024-06-11 15:41:00,036.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:49:40 is 35.3
+2024-06-11 15:41:03,050.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:49:45 is 35.3
+2024-06-11 15:41:15,129.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:50:40 is 35.2
+2024-06-11 15:41:18,145.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:50:45 is 35.2
+2024-06-11 15:41:30,225.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:51:40 is 35.2
+2024-06-11 15:41:33,234.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:51:45 is 35.2
+2024-06-11 15:41:45,365.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:52:40 is 35.6
+2024-06-11 15:41:48,379.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:52:45 is 35.6
+2024-06-11 15:42:00,466.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:53:40 is 35.7
+2024-06-11 15:42:03,481.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:53:45 is 35.7
+2024-06-11 15:42:15,559.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:54:40 is 36.0
+2024-06-11 15:42:18,575.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:54:45 is 36.0
+2024-06-11 15:42:30,650.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:55:40 is 36.0
+2024-06-11 15:42:33,662.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:55:45 is 36.0
+2024-06-11 15:42:33,662.foodB_consumer.WARNING 05/22/21 13:55:45: FOOD B STALL ALERT! Temperature change is -1.0 F in 10.0 minutes.
+2024-06-11 15:42:45,855.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:56:40 is 36.4
+2024-06-11 15:42:45,855.foodB_consumer.WARNING 05/22/21 13:56:40: FOOD B STALL ALERT! Temperature change is -0.6 F in 10.0 minutes.
+2024-06-11 15:42:48,868.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:56:45 is 36.4
+2024-06-11 15:43:00,950.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:57:40 is 36.7
+2024-06-11 15:43:03,966.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:57:45 is 36.7
+2024-06-11 15:43:16,045.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:58:40 is 37.1
+2024-06-11 15:43:19,058.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:58:45 is 37.1
+2024-06-11 15:43:31,129.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:59:40 is 37.6
+2024-06-11 15:43:34,143.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 13:59:45 is 37.6
+2024-06-11 15:43:46,222.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:00:40 is 38.0
+2024-06-11 15:43:49,238.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:00:45 is 38.0
+2024-06-11 15:44:01,421.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:01:40 is 38.5
+2024-06-11 15:44:04,431.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:01:45 is 38.5
+2024-06-11 15:44:16,507.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:02:40 is 39.2
+2024-06-11 15:44:19,522.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:02:45 is 39.2
+2024-06-11 15:44:31,615.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:03:40 is 39.8
+2024-06-11 15:44:34,632.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:03:45 is 39.8
+2024-06-11 15:44:46,715.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:04:40 is 40.4
+2024-06-11 15:44:49,730.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:04:45 is 40.4
+2024-06-11 15:45:01,807.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:05:40 is 41.1
+2024-06-11 15:45:04,824.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:05:45 is 41.1
+2024-06-11 15:45:16,897.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:06:40 is 41.9
+2024-06-11 15:45:19,912.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:06:45 is 41.9
+2024-06-11 15:45:31,994.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:07:40 is 42.7
+2024-06-11 15:45:35,005.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:07:45 is 42.7
+2024-06-11 15:45:47,086.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:08:40 is 43.4
+2024-06-11 15:45:50,099.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:08:45 is 43.4
+2024-06-11 15:46:02,229.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:09:40 is 44.3
+2024-06-11 15:46:05,247.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:09:45 is 44.3
+2024-06-11 15:46:17,330.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:10:40 is 45.4
+2024-06-11 15:46:20,346.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:10:45 is 45.4
+2024-06-11 15:46:32,449.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:11:40 is 46.1
+2024-06-11 15:46:35,461.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:11:45 is 46.1
+2024-06-11 15:46:47,560.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:12:40 is 47.1
+2024-06-11 15:46:50,573.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:12:45 is 47.1
+2024-06-11 15:47:02,648.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:13:40 is 48.1
+2024-06-11 15:47:05,663.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:13:45 is 48.1
+2024-06-11 15:47:17,743.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:14:40 is 49.1
+2024-06-11 15:47:20,759.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:14:45 is 49.1
+2024-06-11 15:47:32,833.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:15:40 is 50.2
+2024-06-11 15:47:35,844.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:15:45 is 50.2
+2024-06-11 15:47:47,925.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:16:40 is 51.2
+2024-06-11 15:47:50,938.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:16:45 is 51.2
+2024-06-11 15:48:03,005.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:17:40 is 52.3
+2024-06-11 15:48:06,021.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:17:45 is 52.3
+2024-06-11 15:48:18,103.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:18:40 is 53.3
+2024-06-11 15:48:21,120.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:18:45 is 53.3
+2024-06-11 15:48:33,187.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:19:40 is 54.4
+2024-06-11 15:48:36,199.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:19:45 is 54.4
+2024-06-11 15:48:48,282.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:20:40 is 55.6
+2024-06-11 15:48:51,297.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:20:45 is 55.6
+2024-06-11 15:49:03,368.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:21:40 is 56.7
+2024-06-11 15:49:06,384.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:21:45 is 56.7
+2024-06-11 15:49:18,452.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:22:40 is 57.9
+2024-06-11 15:49:21,465.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:22:45 is 57.9
+2024-06-11 15:49:33,537.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:23:40 is 59.1
+2024-06-11 15:49:36,550.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:23:45 is 59.1
+2024-06-11 15:49:48,624.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:24:40 is 60.3
+2024-06-11 15:49:51,636.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:24:45 is 60.3
+2024-06-11 15:50:03,707.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:25:40 is 61.5
+2024-06-11 15:50:06,722.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:25:45 is 61.5
+2024-06-11 15:50:18,797.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:26:40 is 62.7
+2024-06-11 15:50:21,814.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:26:45 is 62.7
+2024-06-11 15:50:33,894.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:27:40 is 63.8
+2024-06-11 15:50:36,912.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:27:45 is 63.8
+2024-06-11 15:50:48,989.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:28:40 is 65.1
+2024-06-11 15:50:52,006.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:28:45 is 65.1
+2024-06-11 15:51:04,087.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:29:40 is 66.3
+2024-06-11 15:51:07,103.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:29:45 is 66.3
+2024-06-11 15:51:19,179.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:30:40 is 67.5
+2024-06-11 15:51:22,190.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:30:45 is 67.5
+2024-06-11 15:51:34,264.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:31:40 is 68.6
+2024-06-11 15:51:37,279.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:31:45 is 68.6
+2024-06-11 15:51:49,405.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:32:40 is 69.8
+2024-06-11 15:51:52,420.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:32:45 is 69.8
+2024-06-11 15:52:04,491.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:33:40 is 70.9
+2024-06-11 15:52:07,504.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:33:45 is 70.9
+2024-06-11 15:52:19,585.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:34:40 is 72.1
+2024-06-11 15:52:22,596.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:34:45 is 72.1
+2024-06-11 15:52:34,679.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:35:40 is 73.3
+2024-06-11 15:52:37,694.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:35:45 is 73.3
+2024-06-11 15:52:49,765.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:36:40 is 74.4
+2024-06-11 15:52:52,778.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:36:45 is 74.4
+2024-06-11 15:53:04,856.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:37:40 is 75.5
+2024-06-11 15:53:07,873.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:37:45 is 75.5
+2024-06-11 15:53:20,035.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:38:40 is 76.6
+2024-06-11 15:53:23,051.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:38:45 is 76.6
+2024-06-11 15:53:35,123.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:39:40 is 77.8
+2024-06-11 15:53:38,139.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:39:45 is 77.8
+2024-06-11 15:53:50,214.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:40:40 is 78.9
+2024-06-11 15:53:53,229.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:40:45 is 78.9
+2024-06-11 15:54:05,307.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:41:40 is 80.0
+2024-06-11 15:54:08,320.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:41:45 is 80.0
+2024-06-11 15:54:20,396.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:42:40 is 81.1
+2024-06-11 15:54:23,413.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:42:45 is 81.1
+2024-06-11 15:54:35,479.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:43:40 is 82.2
+2024-06-11 15:54:38,495.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:43:45 is 82.2
+2024-06-11 15:54:50,575.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:44:40 is 83.3
+2024-06-11 15:54:53,586.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:44:45 is 83.3
+2024-06-11 15:55:05,659.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:45:40 is 84.4
+2024-06-11 15:55:08,674.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:45:45 is 84.4
+2024-06-11 15:55:20,749.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:46:40 is 85.5
+2024-06-11 15:55:23,761.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:46:45 is 85.5
+2024-06-11 15:55:35,838.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:47:40 is 86.5
+2024-06-11 15:55:38,854.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:47:45 is 86.5
+2024-06-11 15:55:50,934.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:48:40 is 87.6
+2024-06-11 15:55:53,950.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:48:45 is 87.6
+2024-06-11 15:56:06,025.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:49:40 is 88.6
+2024-06-11 15:56:09,036.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:49:45 is 88.6
+2024-06-11 15:56:21,108.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:50:40 is 89.8
+2024-06-11 15:56:24,123.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:50:45 is 89.8
+2024-06-11 15:56:36,192.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:51:40 is 90.8
+2024-06-11 15:56:39,203.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:51:45 is 90.8
+2024-06-11 15:56:51,279.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:52:40 is 91.8
+2024-06-11 15:56:54,293.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:52:45 is 91.8
+2024-06-11 15:57:06,368.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:53:40 is 92.8
+2024-06-11 15:57:09,384.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:53:45 is 92.8
+2024-06-11 15:57:21,453.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:54:40 is 93.8
+2024-06-11 15:57:24,469.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:54:45 is 93.8
+2024-06-11 15:57:36,547.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:55:40 is 94.8
+2024-06-11 15:57:39,563.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:55:45 is 94.8
+2024-06-11 15:57:51,647.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:56:40 is 95.8
+2024-06-11 15:57:54,662.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:56:45 is 95.8
+2024-06-11 15:58:06,744.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:57:40 is 96.8
+2024-06-11 15:58:09,759.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:57:45 is 96.8
+2024-06-11 15:58:21,829.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:58:40 is 97.7
+2024-06-11 15:58:24,840.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:58:45 is 97.7
+2024-06-11 15:58:36,938.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:59:40 is 98.7
+2024-06-11 15:58:39,953.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 14:59:45 is 98.7
+2024-06-11 15:58:52,069.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:00:40 is 99.5
+2024-06-11 15:58:55,085.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:00:45 is 99.5
+2024-06-11 15:59:07,159.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:01:40 is 100.5
+2024-06-11 15:59:10,178.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:01:45 is 100.5
+2024-06-11 15:59:22,257.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:02:40 is 101.4
+2024-06-11 15:59:25,274.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:02:45 is 101.4
+2024-06-11 15:59:37,436.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:03:40 is 102.2
+2024-06-11 15:59:40,448.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:03:45 is 102.2
+2024-06-11 15:59:52,578.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:04:40 is 103.1
+2024-06-11 15:59:55,595.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:04:45 is 103.1
+2024-06-11 16:00:07,665.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:05:40 is 104.0
+2024-06-11 16:00:10,681.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:05:45 is 104.0
+2024-06-11 16:00:22,755.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:06:40 is 104.8
+2024-06-11 16:00:25,767.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:06:45 is 104.8
+2024-06-11 16:00:37,847.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:07:40 is 105.6
+2024-06-11 16:00:40,861.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:07:45 is 105.6
+2024-06-11 16:00:52,941.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:08:40 is 106.4
+2024-06-11 16:00:56,027.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:08:45 is 106.4
+2024-06-11 16:01:08,102.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:09:40 is 107.2
+2024-06-11 16:01:11,116.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:09:45 is 107.2
+2024-06-11 16:01:23,203.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:10:40 is 108.0
+2024-06-11 16:01:26,217.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:10:45 is 108.0
+2024-06-11 16:01:38,292.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:11:40 is 108.8
+2024-06-11 16:01:41,308.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:11:45 is 108.8
+2024-06-11 16:01:53,373.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:12:40 is 109.5
+2024-06-11 16:01:56,389.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:12:45 is 109.5
+2024-06-11 16:02:08,463.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:13:40 is 110.2
+2024-06-11 16:02:11,473.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:13:45 is 110.2
+2024-06-11 16:02:23,550.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:14:40 is 111.0
+2024-06-11 16:02:26,566.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:14:45 is 111.0
+2024-06-11 16:02:38,649.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:15:40 is 111.7
+2024-06-11 16:02:41,686.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:15:45 is 111.7
+2024-06-11 16:02:53,753.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:16:40 is 112.4
+2024-06-11 16:02:56,769.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:16:45 is 112.4
+2024-06-11 16:03:08,863.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:17:40 is 113.1
+2024-06-11 16:03:11,879.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:17:45 is 113.1
+2024-06-11 16:03:23,964.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:18:40 is 113.8
+2024-06-11 16:03:26,978.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:18:45 is 113.8
+2024-06-11 16:03:39,048.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:19:40 is 114.5
+2024-06-11 16:03:42,060.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:19:45 is 114.5
+2024-06-11 16:03:54,129.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:20:40 is 115.1
+2024-06-11 16:03:57,142.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:20:45 is 115.1
+2024-06-11 16:04:09,214.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:21:40 is 115.8
+2024-06-11 16:04:12,230.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:21:45 is 115.8
+2024-06-11 16:04:24,312.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:22:40 is 116.4
+2024-06-11 16:04:27,329.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:22:45 is 116.4
+2024-06-11 16:04:39,475.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:23:40 is 117.0
+2024-06-11 16:04:42,487.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:23:45 is 117.0
+2024-06-11 16:04:54,656.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:24:40 is 117.7
+2024-06-11 16:04:57,672.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:24:45 is 117.7
+2024-06-11 16:05:09,755.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:25:40 is 118.2
+2024-06-11 16:05:12,766.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:25:45 is 118.2
+2024-06-11 16:05:24,838.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:26:40 is 118.8
+2024-06-11 16:05:27,849.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:26:45 is 118.8
+2024-06-11 16:05:39,929.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:27:40 is 119.4
+2024-06-11 16:05:42,945.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:27:45 is 119.4
+2024-06-11 16:05:55,027.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:28:40 is 120.0
+2024-06-11 16:05:58,039.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:28:45 is 120.0
+2024-06-11 16:06:10,116.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:29:40 is 120.5
+2024-06-11 16:06:13,129.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:29:45 is 120.5
+2024-06-11 16:06:25,211.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:30:40 is 121.1
+2024-06-11 16:06:28,228.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:30:45 is 121.1
+2024-06-11 16:06:40,305.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:31:40 is 121.7
+2024-06-11 16:06:43,319.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:31:45 is 121.7
+2024-06-11 16:06:55,391.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:32:40 is 122.2
+2024-06-11 16:06:58,408.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:32:45 is 122.2
+2024-06-11 16:07:10,474.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:33:40 is 122.7
+2024-06-11 16:07:13,486.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:33:45 is 122.7
+2024-06-11 16:07:25,564.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:34:40 is 123.3
+2024-06-11 16:07:28,582.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:34:45 is 123.3
+2024-06-11 16:07:40,659.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:35:40 is 123.8
+2024-06-11 16:07:43,672.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:35:45 is 123.8
+2024-06-11 16:07:55,759.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:36:40 is 124.3
+2024-06-11 16:07:58,771.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:36:45 is 124.3
+2024-06-11 16:08:10,850.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:37:40 is 124.8
+2024-06-11 16:08:13,858.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:37:45 is 124.8
+2024-06-11 16:08:25,934.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:38:40 is 125.3
+2024-06-11 16:08:28,950.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:38:45 is 125.3
+2024-06-11 16:08:41,027.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:39:40 is 125.8
+2024-06-11 16:08:44,045.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:39:45 is 125.8
+2024-06-11 16:08:56,173.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:40:40 is 126.3
+2024-06-11 16:08:59,189.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:40:45 is 126.3
+2024-06-11 16:09:11,273.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:41:40 is 126.7
+2024-06-11 16:09:14,307.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:41:45 is 126.7
+2024-06-11 16:09:26,401.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:42:40 is 127.2
+2024-06-11 16:09:29,418.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:42:45 is 127.2
+2024-06-11 16:09:41,531.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:43:40 is 127.7
+2024-06-11 16:09:44,546.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:43:45 is 127.7
+2024-06-11 16:09:56,696.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:44:40 is 128.2
+2024-06-11 16:09:59,712.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:44:45 is 128.2
+2024-06-11 16:10:11,914.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:45:40 is 128.6
+2024-06-11 16:10:14,927.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:45:45 is 128.6
+2024-06-11 16:10:26,998.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:46:40 is 129.1
+2024-06-11 16:10:30,010.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:46:45 is 129.1
+2024-06-11 16:10:42,095.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:47:40 is 129.5
+2024-06-11 16:10:45,110.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:47:45 is 129.5
+2024-06-11 16:10:57,179.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:48:40 is 130.0
+2024-06-11 16:11:00,191.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:48:45 is 130.0
+2024-06-11 16:11:12,506.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:49:40 is 130.4
+2024-06-11 16:11:15,532.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:49:45 is 130.4
+2024-06-11 16:11:27,611.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:50:40 is 130.8
+2024-06-11 16:11:30,625.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:50:45 is 130.8
+2024-06-11 16:11:42,702.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:51:40 is 131.2
+2024-06-11 16:11:45,721.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:51:45 is 131.2
+2024-06-11 16:11:57,796.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:52:40 is 131.7
+2024-06-11 16:12:00,810.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:52:45 is 131.7
+2024-06-11 16:12:12,889.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:53:40 is 132.1
+2024-06-11 16:12:15,902.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:53:45 is 132.1
+2024-06-11 16:12:27,973.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:54:40 is 132.5
+2024-06-11 16:12:30,989.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:54:45 is 132.5
+2024-06-11 16:12:43,116.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:55:40 is 132.9
+2024-06-11 16:12:46,140.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:55:45 is 132.9
+2024-06-11 16:12:58,311.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:56:40 is 133.3
+2024-06-11 16:13:01,325.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:56:45 is 133.3
+2024-06-11 16:13:13,625.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:57:40 is 133.7
+2024-06-11 16:13:16,646.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:57:45 is 133.7
+2024-06-11 16:13:28,713.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:58:40 is 134.1
+2024-06-11 16:13:31,729.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:58:45 is 134.1
+2024-06-11 16:13:43,803.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:59:40 is 134.5
+2024-06-11 16:13:46,818.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 15:59:45 is 134.5
+2024-06-11 16:13:58,895.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:00:40 is 134.9
+2024-06-11 16:14:01,907.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:00:45 is 134.9
+2024-06-11 16:14:14,129.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:01:40 is 135.2
+2024-06-11 16:14:17,142.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:01:45 is 135.2
+2024-06-11 16:14:29,217.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:02:40 is 135.6
+2024-06-11 16:14:32,233.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:02:45 is 135.6
+2024-06-11 16:14:44,312.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:03:40 is 136.0
+2024-06-11 16:14:47,323.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:03:45 is 136.0
+2024-06-11 16:14:59,428.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:04:40 is 136.3
+2024-06-11 16:15:02,441.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:04:45 is 136.3
+2024-06-11 16:15:14,517.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:05:40 is 136.7
+2024-06-11 16:15:17,538.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:05:45 is 136.7
+2024-06-11 16:15:29,621.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:06:40 is 137.0
+2024-06-11 16:15:32,637.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:06:45 is 137.0
+2024-06-11 16:15:44,804.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:07:40 is 137.4
+2024-06-11 16:15:47,814.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:07:45 is 137.4
+2024-06-11 16:15:59,885.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:08:40 is 137.7
+2024-06-11 16:16:02,901.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:08:45 is 137.7
+2024-06-11 16:16:14,994.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:09:40 is 138.0
+2024-06-11 16:16:18,010.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:09:45 is 138.0
+2024-06-11 16:16:30,121.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:10:40 is 138.4
+2024-06-11 16:16:33,134.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:10:45 is 138.4
+2024-06-11 16:16:45,200.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:11:40 is 138.7
+2024-06-11 16:16:48,226.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:11:45 is 138.7
+2024-06-11 16:17:00,305.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:12:40 is 139.0
+2024-06-11 16:17:03,321.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:12:45 is 139.0
+2024-06-11 16:17:15,405.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:13:40 is 139.4
+2024-06-11 16:17:18,420.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:13:45 is 139.4
+2024-06-11 16:17:30,496.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:14:40 is 139.7
+2024-06-11 16:17:33,510.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:14:45 is 139.7
+2024-06-11 16:17:45,590.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:15:40 is 140.0
+2024-06-11 16:17:48,602.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:15:45 is 140.0
+2024-06-11 16:18:00,689.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:16:40 is 140.3
+2024-06-11 16:18:03,704.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:16:45 is 140.3
+2024-06-11 16:18:15,779.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:17:40 is 140.6
+2024-06-11 16:18:18,788.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:17:45 is 140.6
+2024-06-11 16:18:30,884.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:18:40 is 140.9
+2024-06-11 16:18:33,907.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:18:45 is 140.9
+2024-06-11 16:18:45,991.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:19:40 is 141.2
+2024-06-11 16:18:49,008.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:19:45 is 141.2
+2024-06-11 16:19:01,095.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:20:40 is 141.5
+2024-06-11 16:19:04,112.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:20:45 is 141.5
+2024-06-11 16:19:16,183.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:21:40 is 141.8
+2024-06-11 16:19:19,197.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:21:45 is 141.8
+2024-06-11 16:19:31,277.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:22:40 is 142.1
+2024-06-11 16:19:34,382.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:22:45 is 142.1
+2024-06-11 16:19:46,463.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:23:40 is 142.3
+2024-06-11 16:19:49,478.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:23:45 is 142.3
+2024-06-11 16:20:01,550.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:24:40 is 142.6
+2024-06-11 16:20:04,562.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:24:45 is 142.6
+2024-06-11 16:20:16,648.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:25:40 is 142.8
+2024-06-11 16:20:19,664.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:25:45 is 142.8
+2024-06-11 16:20:31,740.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:26:40 is 143.1
+2024-06-11 16:20:34,758.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:26:45 is 143.1
+2024-06-11 16:20:46,833.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:27:40 is 143.3
+2024-06-11 16:20:49,851.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:27:45 is 143.3
+2024-06-11 16:21:02,037.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:28:40 is 143.6
+2024-06-11 16:21:05,051.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:28:45 is 143.6
+2024-06-11 16:21:17,117.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:29:40 is 143.8
+2024-06-11 16:21:20,128.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:29:45 is 143.8
+2024-06-11 16:21:32,203.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:30:40 is 144.0
+2024-06-11 16:21:35,215.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:30:45 is 144.0
+2024-06-11 16:21:47,305.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:31:40 is 144.3
+2024-06-11 16:21:50,316.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:31:45 is 144.3
+2024-06-11 16:22:02,638.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:32:40 is 144.5
+2024-06-11 16:22:05,650.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:32:45 is 144.5
+2024-06-11 16:22:17,724.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:33:40 is 144.7
+2024-06-11 16:22:20,739.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:33:45 is 144.7
+2024-06-11 16:22:32,820.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:34:40 is 145.0
+2024-06-11 16:22:35,833.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:34:45 is 145.0
+2024-06-11 16:22:47,949.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:35:40 is 145.2
+2024-06-11 16:22:50,963.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:35:45 is 145.2
+2024-06-11 16:23:03,037.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:36:40 is 145.4
+2024-06-11 16:23:06,051.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:36:45 is 145.4
+2024-06-11 16:23:18,132.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:37:40 is 145.6
+2024-06-11 16:23:21,146.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:37:45 is 145.6
+2024-06-11 16:23:33,221.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:38:40 is 145.8
+2024-06-11 16:23:36,237.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:38:45 is 145.8
+2024-06-11 16:23:48,311.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:39:40 is 146.0
+2024-06-11 16:23:51,326.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:39:45 is 146.0
+2024-06-11 16:24:03,405.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:40:40 is 146.2
+2024-06-11 16:24:06,417.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:40:45 is 146.2
+2024-06-11 16:24:18,483.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:41:40 is 146.4
+2024-06-11 16:24:21,498.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:41:45 is 146.4
+2024-06-11 16:24:33,577.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:42:40 is 146.6
+2024-06-11 16:24:36,593.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:42:45 is 146.6
+2024-06-11 16:24:48,672.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:43:40 is 146.8
+2024-06-11 16:24:51,683.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:43:45 is 146.8
+2024-06-11 16:25:03,782.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:44:40 is 147.0
+2024-06-11 16:25:06,791.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:44:45 is 147.0
+2024-06-11 16:25:18,876.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:45:40 is 147.2
+2024-06-11 16:25:21,889.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:45:45 is 147.2
+2024-06-11 16:25:33,959.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:46:40 is 147.4
+2024-06-11 16:25:36,972.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:46:45 is 147.4
+2024-06-11 16:25:49,049.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:47:40 is 147.5
+2024-06-11 16:25:52,062.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:47:45 is 147.5
+2024-06-11 16:26:04,207.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:48:40 is 147.7
+2024-06-11 16:26:07,218.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:48:45 is 147.7
+2024-06-11 16:26:19,297.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:49:40 is 147.9
+2024-06-11 16:26:22,309.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:49:45 is 147.9
+2024-06-11 16:26:34,383.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:50:40 is 148.0
+2024-06-11 16:26:37,395.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:50:45 is 148.0
+2024-06-11 16:26:49,473.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:51:40 is 148.2
+2024-06-11 16:26:52,490.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:51:45 is 148.2
+2024-06-11 16:27:04,641.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:52:40 is 148.4
+2024-06-11 16:27:07,653.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:52:45 is 148.4
+2024-06-11 16:27:19,731.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:53:40 is 148.5
+2024-06-11 16:27:22,746.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:53:45 is 148.5
+2024-06-11 16:27:34,823.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:54:40 is 148.7
+2024-06-11 16:27:37,837.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:54:45 is 148.7
+2024-06-11 16:27:49,923.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:55:40 is 148.8
+2024-06-11 16:27:52,937.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:55:45 is 148.8
+2024-06-11 16:28:05,015.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:56:40 is 149.0
+2024-06-11 16:28:08,027.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:56:45 is 149.0
+2024-06-11 16:28:20,109.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:57:40 is 149.1
+2024-06-11 16:28:23,125.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:57:45 is 149.1
+2024-06-11 16:28:35,201.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:58:40 is 149.3
+2024-06-11 16:28:38,215.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:58:45 is 149.3
+2024-06-11 16:28:50,287.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:59:40 is 149.4
+2024-06-11 16:28:53,298.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 16:59:45 is 149.4
+2024-06-11 16:29:05,376.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:00:40 is 149.5
+2024-06-11 16:29:08,388.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:00:45 is 149.5
+2024-06-11 16:29:20,459.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:01:40 is 149.6
+2024-06-11 16:29:23,473.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:01:45 is 149.6
+2024-06-11 16:29:35,551.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:02:40 is 149.8
+2024-06-11 16:29:38,568.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:02:45 is 149.8
+2024-06-11 16:29:50,642.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:03:40 is 149.9
+2024-06-11 16:29:53,655.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:03:45 is 149.9
+2024-06-11 16:30:05,732.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:04:40 is 150.0
+2024-06-11 16:30:08,749.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:04:45 is 150.0
+2024-06-11 16:30:20,832.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:05:40 is 150.1
+2024-06-11 16:30:23,847.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:05:45 is 150.1
+2024-06-11 16:30:35,915.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:06:40 is 150.2
+2024-06-11 16:30:38,931.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:06:45 is 150.2
+2024-06-11 16:30:51,010.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:07:40 is 150.3
+2024-06-11 16:30:54,021.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:07:45 is 150.3
+2024-06-11 16:30:54,021.foodB_consumer.WARNING 05/22/21 17:07:45: FOOD B STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:31:06,091.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:08:40 is 150.4
+2024-06-11 16:31:09,099.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:08:45 is 150.4
+2024-06-11 16:31:09,100.foodB_consumer.WARNING 05/22/21 17:08:45: FOOD B STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:31:21,176.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:09:40 is 150.5
+2024-06-11 16:31:24,191.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:09:45 is 150.5
+2024-06-11 16:31:24,191.foodB_consumer.WARNING 05/22/21 17:09:45: FOOD B STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:31:36,329.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:10:40 is 150.7
+2024-06-11 16:31:39,340.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:10:45 is 150.7
+2024-06-11 16:31:51,417.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:11:40 is 150.7
+2024-06-11 16:31:54,430.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:11:45 is 150.7
+2024-06-11 16:31:54,430.foodB_consumer.WARNING 05/22/21 17:11:45: FOOD B STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:32:06,500.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:12:40 is 150.8
+2024-06-11 16:32:06,500.foodB_consumer.WARNING 05/22/21 17:12:40: FOOD B STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:32:09,513.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:12:45 is 150.8
+2024-06-11 16:32:09,514.foodB_consumer.WARNING 05/22/21 17:12:45: FOOD B STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:32:21,654.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:13:40 is 150.9
+2024-06-11 16:32:21,654.foodB_consumer.WARNING 05/22/21 17:13:40: FOOD B STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:32:24,671.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:13:45 is 150.9
+2024-06-11 16:32:24,671.foodB_consumer.WARNING 05/22/21 17:13:45: FOOD B STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:32:36,747.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:14:40 is 151.0
+2024-06-11 16:32:36,747.foodB_consumer.WARNING 05/22/21 17:14:40: FOOD B STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:32:39,759.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:14:45 is 151.0
+2024-06-11 16:32:39,760.foodB_consumer.WARNING 05/22/21 17:14:45: FOOD B STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:32:51,829.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:15:40 is 151.1
+2024-06-11 16:32:51,829.foodB_consumer.WARNING 05/22/21 17:15:40: FOOD B STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:32:54,845.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:15:45 is 151.1
+2024-06-11 16:32:54,845.foodB_consumer.WARNING 05/22/21 17:15:45: FOOD B STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:33:06,922.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:16:40 is 151.2
+2024-06-11 16:33:06,923.foodB_consumer.WARNING 05/22/21 17:16:40: FOOD B STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:33:09,940.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:16:45 is 151.2
+2024-06-11 16:33:09,940.foodB_consumer.WARNING 05/22/21 17:16:45: FOOD B STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:33:22,008.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:17:40 is 151.3
+2024-06-11 16:33:22,008.foodB_consumer.WARNING 05/22/21 17:17:40: FOOD B STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:33:25,024.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:17:45 is 151.3
+2024-06-11 16:33:25,025.foodB_consumer.WARNING 05/22/21 17:17:45: FOOD B STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:33:37,094.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:18:40 is 151.3
+2024-06-11 16:33:37,095.foodB_consumer.WARNING 05/22/21 17:18:40: FOOD B STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:33:40,110.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:18:45 is 151.3
+2024-06-11 16:33:40,110.foodB_consumer.WARNING 05/22/21 17:18:45: FOOD B STALL ALERT! Temperature change is 0.8 F in 10.0 minutes.
+2024-06-11 16:33:52,185.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:19:40 is 151.4
+2024-06-11 16:33:52,186.foodB_consumer.WARNING 05/22/21 17:19:40: FOOD B STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:33:55,196.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:19:45 is 151.4
+2024-06-11 16:33:55,196.foodB_consumer.WARNING 05/22/21 17:19:45: FOOD B STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:34:07,262.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:20:40 is 151.5
+2024-06-11 16:34:07,265.foodB_consumer.WARNING 05/22/21 17:20:40: FOOD B STALL ALERT! Temperature change is 0.8 F in 10.0 minutes.
+2024-06-11 16:34:10,281.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:20:45 is 151.5
+2024-06-11 16:34:10,281.foodB_consumer.WARNING 05/22/21 17:20:45: FOOD B STALL ALERT! Temperature change is 0.8 F in 10.0 minutes.
+2024-06-11 16:34:22,360.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:21:40 is 151.5
+2024-06-11 16:34:22,360.foodB_consumer.WARNING 05/22/21 17:21:40: FOOD B STALL ALERT! Temperature change is 0.8 F in 10.0 minutes.
+2024-06-11 16:34:25,371.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:21:45 is 151.5
+2024-06-11 16:34:25,371.foodB_consumer.WARNING 05/22/21 17:21:45: FOOD B STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:34:37,444.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:22:40 is 151.6
+2024-06-11 16:34:37,445.foodB_consumer.WARNING 05/22/21 17:22:40: FOOD B STALL ALERT! Temperature change is 0.8 F in 10.0 minutes.
+2024-06-11 16:34:40,465.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:22:45 is 151.6
+2024-06-11 16:34:40,466.foodB_consumer.WARNING 05/22/21 17:22:45: FOOD B STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:34:52,541.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:23:40 is 151.7
+2024-06-11 16:34:52,541.foodB_consumer.WARNING 05/22/21 17:23:40: FOOD B STALL ALERT! Temperature change is 0.8 F in 10.0 minutes.
+2024-06-11 16:34:55,554.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:23:45 is 151.7
+2024-06-11 16:34:55,555.foodB_consumer.WARNING 05/22/21 17:23:45: FOOD B STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:35:07,646.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:24:40 is 151.7
+2024-06-11 16:35:07,646.foodB_consumer.WARNING 05/22/21 17:24:40: FOOD B STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:35:10,657.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:24:45 is 151.7
+2024-06-11 16:35:10,658.foodB_consumer.WARNING 05/22/21 17:24:45: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:35:22,756.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:25:40 is 151.8
+2024-06-11 16:35:22,757.foodB_consumer.WARNING 05/22/21 17:25:40: FOOD B STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:35:25,770.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:25:45 is 151.8
+2024-06-11 16:35:25,770.foodB_consumer.WARNING 05/22/21 17:25:45: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:35:37,845.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:26:40 is 151.9
+2024-06-11 16:35:37,845.foodB_consumer.WARNING 05/22/21 17:26:40: FOOD B STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:35:40,879.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:26:45 is 151.9
+2024-06-11 16:35:40,879.foodB_consumer.WARNING 05/22/21 17:26:45: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:35:52,966.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:27:40 is 151.9
+2024-06-11 16:35:52,966.foodB_consumer.WARNING 05/22/21 17:27:40: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:35:55,998.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:27:45 is 151.9
+2024-06-11 16:35:55,999.foodB_consumer.WARNING 05/22/21 17:27:45: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:36:08,226.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:28:40 is 152.0
+2024-06-11 16:36:08,226.foodB_consumer.WARNING 05/22/21 17:28:40: FOOD B STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:36:11,240.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:28:45 is 152.0
+2024-06-11 16:36:11,241.foodB_consumer.WARNING 05/22/21 17:28:45: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:36:23,302.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:29:40 is 152.0
+2024-06-11 16:36:23,302.foodB_consumer.WARNING 05/22/21 17:29:40: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:36:26,315.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:29:45 is 152.0
+2024-06-11 16:36:26,316.foodB_consumer.WARNING 05/22/21 17:29:45: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:36:38,387.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:30:40 is 152.1
+2024-06-11 16:36:38,387.foodB_consumer.WARNING 05/22/21 17:30:40: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:36:41,403.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:30:45 is 152.1
+2024-06-11 16:36:41,403.foodB_consumer.WARNING 05/22/21 17:30:45: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:36:53,477.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:31:40 is 152.1
+2024-06-11 16:36:53,477.foodB_consumer.WARNING 05/22/21 17:31:40: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:36:56,492.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:31:45 is 152.1
+2024-06-11 16:36:56,493.foodB_consumer.WARNING 05/22/21 17:31:45: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:37:08,615.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:32:40 is 152.2
+2024-06-11 16:37:08,615.foodB_consumer.WARNING 05/22/21 17:32:40: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:37:11,636.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:32:45 is 152.2
+2024-06-11 16:37:11,636.foodB_consumer.WARNING 05/22/21 17:32:45: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:37:23,726.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:33:40 is 152.2
+2024-06-11 16:37:23,726.foodB_consumer.WARNING 05/22/21 17:33:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:37:26,736.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:33:45 is 152.2
+2024-06-11 16:37:26,736.foodB_consumer.WARNING 05/22/21 17:33:45: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:37:38,801.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:34:40 is 152.3
+2024-06-11 16:37:38,801.foodB_consumer.WARNING 05/22/21 17:34:40: FOOD B STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:37:41,812.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:34:45 is 152.3
+2024-06-11 16:37:41,812.foodB_consumer.WARNING 05/22/21 17:34:45: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:37:53,900.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:35:40 is 152.3
+2024-06-11 16:37:53,902.foodB_consumer.WARNING 05/22/21 17:35:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:37:56,913.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:35:45 is 152.3
+2024-06-11 16:37:56,914.foodB_consumer.WARNING 05/22/21 17:35:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:38:09,076.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:36:40 is 152.3
+2024-06-11 16:38:09,076.foodB_consumer.WARNING 05/22/21 17:36:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:38:12,092.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:36:45 is 152.3
+2024-06-11 16:38:12,092.foodB_consumer.WARNING 05/22/21 17:36:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:38:24,166.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:37:40 is 152.4
+2024-06-11 16:38:24,166.foodB_consumer.WARNING 05/22/21 17:37:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:38:27,178.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:37:45 is 152.4
+2024-06-11 16:38:27,178.foodB_consumer.WARNING 05/22/21 17:37:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:38:39,461.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:38:40 is 152.4
+2024-06-11 16:38:39,463.foodB_consumer.WARNING 05/22/21 17:38:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:38:42,479.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:38:45 is 152.4
+2024-06-11 16:38:42,479.foodB_consumer.WARNING 05/22/21 17:38:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:38:54,610.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:39:40 is 152.4
+2024-06-11 16:38:54,610.foodB_consumer.WARNING 05/22/21 17:39:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:38:57,626.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:39:45 is 152.4
+2024-06-11 16:38:57,626.foodB_consumer.WARNING 05/22/21 17:39:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:39:09,701.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:40:40 is 152.5
+2024-06-11 16:39:09,701.foodB_consumer.WARNING 05/22/21 17:40:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:39:12,715.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:40:45 is 152.5
+2024-06-11 16:39:12,715.foodB_consumer.WARNING 05/22/21 17:40:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:39:24,785.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:41:40 is 152.5
+2024-06-11 16:39:24,785.foodB_consumer.WARNING 05/22/21 17:41:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:39:27,800.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:41:45 is 152.5
+2024-06-11 16:39:27,800.foodB_consumer.WARNING 05/22/21 17:41:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:39:40,009.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:42:40 is 152.5
+2024-06-11 16:39:40,011.foodB_consumer.WARNING 05/22/21 17:42:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:39:43,020.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:42:45 is 152.5
+2024-06-11 16:39:43,020.foodB_consumer.WARNING 05/22/21 17:42:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:39:55,089.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:43:40 is 152.6
+2024-06-11 16:39:55,089.foodB_consumer.WARNING 05/22/21 17:43:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:39:58,107.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:43:45 is 152.6
+2024-06-11 16:39:58,107.foodB_consumer.WARNING 05/22/21 17:43:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:10,185.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:44:40 is 152.6
+2024-06-11 16:40:10,185.foodB_consumer.WARNING 05/22/21 17:44:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:13,201.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:44:45 is 152.6
+2024-06-11 16:40:13,202.foodB_consumer.WARNING 05/22/21 17:44:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:25,281.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:45:40 is 152.6
+2024-06-11 16:40:25,281.foodB_consumer.WARNING 05/22/21 17:45:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:28,293.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:45:45 is 152.6
+2024-06-11 16:40:28,293.foodB_consumer.WARNING 05/22/21 17:45:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:40,375.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:46:40 is 152.6
+2024-06-11 16:40:40,375.foodB_consumer.WARNING 05/22/21 17:46:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:43,387.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:46:45 is 152.6
+2024-06-11 16:40:43,387.foodB_consumer.WARNING 05/22/21 17:46:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:40:55,463.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:47:40 is 152.7
+2024-06-11 16:40:55,463.foodB_consumer.WARNING 05/22/21 17:47:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:58,480.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:47:45 is 152.7
+2024-06-11 16:40:58,480.foodB_consumer.WARNING 05/22/21 17:47:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:41:10,545.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:48:40 is 152.7
+2024-06-11 16:41:10,546.foodB_consumer.WARNING 05/22/21 17:48:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:41:13,562.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:48:45 is 152.7
+2024-06-11 16:41:13,562.foodB_consumer.WARNING 05/22/21 17:48:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:41:25,643.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:49:40 is 152.7
+2024-06-11 16:41:25,644.foodB_consumer.WARNING 05/22/21 17:49:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:41:28,658.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:49:45 is 152.7
+2024-06-11 16:41:28,658.foodB_consumer.WARNING 05/22/21 17:49:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:41:40,727.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:50:40 is 152.7
+2024-06-11 16:41:40,727.foodB_consumer.WARNING 05/22/21 17:50:40: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:41:43,741.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:50:45 is 152.7
+2024-06-11 16:41:43,741.foodB_consumer.WARNING 05/22/21 17:50:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:41:55,810.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:51:40 is 152.8
+2024-06-11 16:41:55,810.foodB_consumer.WARNING 05/22/21 17:51:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:41:58,825.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:51:45 is 152.8
+2024-06-11 16:41:58,825.foodB_consumer.WARNING 05/22/21 17:51:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:10,901.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:52:40 is 152.8
+2024-06-11 16:42:10,902.foodB_consumer.WARNING 05/22/21 17:52:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:13,917.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:52:45 is 152.8
+2024-06-11 16:42:13,917.foodB_consumer.WARNING 05/22/21 17:52:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:42:25,991.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:53:40 is 152.8
+2024-06-11 16:42:25,991.foodB_consumer.WARNING 05/22/21 17:53:40: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:42:29,005.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:53:45 is 152.8
+2024-06-11 16:42:29,006.foodB_consumer.WARNING 05/22/21 17:53:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:42:41,071.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:54:40 is 152.9
+2024-06-11 16:42:41,071.foodB_consumer.WARNING 05/22/21 17:54:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:44,083.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:54:45 is 152.9
+2024-06-11 16:42:44,083.foodB_consumer.WARNING 05/22/21 17:54:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:56,195.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:55:40 is 152.9
+2024-06-11 16:42:56,197.foodB_consumer.WARNING 05/22/21 17:55:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:59,212.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:55:45 is 152.9
+2024-06-11 16:42:59,212.foodB_consumer.WARNING 05/22/21 17:55:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:43:11,289.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:56:40 is 152.9
+2024-06-11 16:43:11,290.foodB_consumer.WARNING 05/22/21 17:56:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:43:14,306.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:56:45 is 152.9
+2024-06-11 16:43:14,306.foodB_consumer.WARNING 05/22/21 17:56:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:43:26,380.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:57:40 is 152.9
+2024-06-11 16:43:26,380.foodB_consumer.WARNING 05/22/21 17:57:40: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:43:29,394.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:57:45 is 152.9
+2024-06-11 16:43:29,394.foodB_consumer.WARNING 05/22/21 17:57:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:43:41,510.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:58:40 is 153.0
+2024-06-11 16:43:41,510.foodB_consumer.WARNING 05/22/21 17:58:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:43:44,526.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:58:45 is 153.0
+2024-06-11 16:43:44,527.foodB_consumer.WARNING 05/22/21 17:58:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:43:56,785.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:59:40 is 153.0
+2024-06-11 16:43:56,785.foodB_consumer.WARNING 05/22/21 17:59:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:43:59,801.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 17:59:45 is 153.0
+2024-06-11 16:43:59,801.foodB_consumer.WARNING 05/22/21 17:59:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:44:11,875.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:00:40 is 153.0
+2024-06-11 16:44:11,875.foodB_consumer.WARNING 05/22/21 18:00:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:44:14,890.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:00:45 is 153.0
+2024-06-11 16:44:14,890.foodB_consumer.WARNING 05/22/21 18:00:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:44:26,964.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:01:40 is 153.1
+2024-06-11 16:44:26,964.foodB_consumer.WARNING 05/22/21 18:01:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:44:29,976.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:01:45 is 153.1
+2024-06-11 16:44:29,976.foodB_consumer.WARNING 05/22/21 18:01:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:44:42,044.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:02:40 is 153.1
+2024-06-11 16:44:42,044.foodB_consumer.WARNING 05/22/21 18:02:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:44:45,055.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:02:45 is 153.1
+2024-06-11 16:44:45,056.foodB_consumer.WARNING 05/22/21 18:02:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:44:57,136.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:03:40 is 153.1
+2024-06-11 16:44:57,137.foodB_consumer.WARNING 05/22/21 18:03:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:45:00,150.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:03:45 is 153.1
+2024-06-11 16:45:00,151.foodB_consumer.WARNING 05/22/21 18:03:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:45:12,249.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:04:40 is 153.2
+2024-06-11 16:45:12,249.foodB_consumer.WARNING 05/22/21 18:04:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:45:15,262.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:04:45 is 153.2
+2024-06-11 16:45:15,262.foodB_consumer.WARNING 05/22/21 18:04:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:45:27,341.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:05:40 is 153.2
+2024-06-11 16:45:27,341.foodB_consumer.WARNING 05/22/21 18:05:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:45:30,358.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:05:45 is 153.2
+2024-06-11 16:45:30,358.foodB_consumer.WARNING 05/22/21 18:05:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:45:42,440.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:06:40 is 153.3
+2024-06-11 16:45:42,440.foodB_consumer.WARNING 05/22/21 18:06:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:45:45,453.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:06:45 is 153.3
+2024-06-11 16:45:45,454.foodB_consumer.WARNING 05/22/21 18:06:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:45:57,539.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:07:40 is 153.3
+2024-06-11 16:45:57,539.foodB_consumer.WARNING 05/22/21 18:07:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:46:00,554.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:07:45 is 153.3
+2024-06-11 16:46:00,554.foodB_consumer.WARNING 05/22/21 18:07:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:46:12,620.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:08:40 is 153.4
+2024-06-11 16:46:12,620.foodB_consumer.WARNING 05/22/21 18:08:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:46:15,634.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:08:45 is 153.4
+2024-06-11 16:46:15,634.foodB_consumer.WARNING 05/22/21 18:08:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:46:27,706.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:09:40 is 153.4
+2024-06-11 16:46:27,706.foodB_consumer.WARNING 05/22/21 18:09:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:46:30,718.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:09:45 is 153.4
+2024-06-11 16:46:30,718.foodB_consumer.WARNING 05/22/21 18:09:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:46:42,796.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:10:40 is 153.4
+2024-06-11 16:46:42,797.foodB_consumer.WARNING 05/22/21 18:10:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:46:45,814.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:10:45 is 153.4
+2024-06-11 16:46:45,814.foodB_consumer.WARNING 05/22/21 18:10:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:46:57,897.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:11:40 is 153.5
+2024-06-11 16:46:57,897.foodB_consumer.WARNING 05/22/21 18:11:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:47:00,910.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:11:45 is 153.5
+2024-06-11 16:47:00,911.foodB_consumer.WARNING 05/22/21 18:11:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:47:12,987.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:12:40 is 153.5
+2024-06-11 16:47:12,987.foodB_consumer.WARNING 05/22/21 18:12:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:47:16,005.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:12:45 is 153.5
+2024-06-11 16:47:16,006.foodB_consumer.WARNING 05/22/21 18:12:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:47:28,082.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:13:40 is 153.5
+2024-06-11 16:47:28,082.foodB_consumer.WARNING 05/22/21 18:13:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:47:31,096.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:13:45 is 153.5
+2024-06-11 16:47:31,096.foodB_consumer.WARNING 05/22/21 18:13:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:47:43,162.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:14:40 is 153.6
+2024-06-11 16:47:43,163.foodB_consumer.WARNING 05/22/21 18:14:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:47:46,176.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:14:45 is 153.6
+2024-06-11 16:47:46,176.foodB_consumer.WARNING 05/22/21 18:14:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:47:58,254.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:15:40 is 153.6
+2024-06-11 16:47:58,254.foodB_consumer.WARNING 05/22/21 18:15:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:48:01,267.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:15:45 is 153.6
+2024-06-11 16:48:01,268.foodB_consumer.WARNING 05/22/21 18:15:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:48:13,347.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:16:40 is 153.7
+2024-06-11 16:48:13,348.foodB_consumer.WARNING 05/22/21 18:16:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:48:16,376.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:16:45 is 153.7
+2024-06-11 16:48:16,376.foodB_consumer.WARNING 05/22/21 18:16:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:48:28,448.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:17:40 is 153.7
+2024-06-11 16:48:28,448.foodB_consumer.WARNING 05/22/21 18:17:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:48:31,463.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:17:45 is 153.7
+2024-06-11 16:48:31,463.foodB_consumer.WARNING 05/22/21 18:17:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:48:43,708.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:18:40 is 153.8
+2024-06-11 16:48:43,709.foodB_consumer.WARNING 05/22/21 18:18:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:48:46,718.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:18:45 is 153.8
+2024-06-11 16:48:46,718.foodB_consumer.WARNING 05/22/21 18:18:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:48:58,820.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:19:40 is 153.8
+2024-06-11 16:48:58,822.foodB_consumer.WARNING 05/22/21 18:19:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:49:01,833.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:19:45 is 153.8
+2024-06-11 16:49:01,833.foodB_consumer.WARNING 05/22/21 18:19:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:49:13,964.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:20:40 is 153.9
+2024-06-11 16:49:13,964.foodB_consumer.WARNING 05/22/21 18:20:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:49:16,978.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:20:45 is 153.9
+2024-06-11 16:49:16,979.foodB_consumer.WARNING 05/22/21 18:20:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:49:29,060.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:21:40 is 153.9
+2024-06-11 16:49:29,060.foodB_consumer.WARNING 05/22/21 18:21:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:49:32,076.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:21:45 is 153.9
+2024-06-11 16:49:32,076.foodB_consumer.WARNING 05/22/21 18:21:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:49:44,148.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:22:40 is 154.0
+2024-06-11 16:49:44,148.foodB_consumer.WARNING 05/22/21 18:22:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:49:47,162.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:22:45 is 154.0
+2024-06-11 16:49:47,164.foodB_consumer.WARNING 05/22/21 18:22:45: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:49:59,243.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:23:40 is 154.0
+2024-06-11 16:49:59,243.foodB_consumer.WARNING 05/22/21 18:23:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:50:02,259.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:23:45 is 154.0
+2024-06-11 16:50:02,260.foodB_consumer.WARNING 05/22/21 18:23:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:50:14,322.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:24:40 is 154.0
+2024-06-11 16:50:14,322.foodB_consumer.WARNING 05/22/21 18:24:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:50:17,344.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:24:45 is 154.0
+2024-06-11 16:50:17,344.foodB_consumer.WARNING 05/22/21 18:24:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:50:29,422.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:25:40 is 154.1
+2024-06-11 16:50:29,422.foodB_consumer.WARNING 05/22/21 18:25:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:50:32,438.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:25:45 is 154.1
+2024-06-11 16:50:32,438.foodB_consumer.WARNING 05/22/21 18:25:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:50:44,613.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:26:40 is 154.1
+2024-06-11 16:50:44,614.foodB_consumer.WARNING 05/22/21 18:26:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:50:47,629.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:26:45 is 154.1
+2024-06-11 16:50:47,629.foodB_consumer.WARNING 05/22/21 18:26:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:50:59,702.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:27:40 is 154.2
+2024-06-11 16:50:59,702.foodB_consumer.WARNING 05/22/21 18:27:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:51:02,712.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:27:45 is 154.2
+2024-06-11 16:51:02,712.foodB_consumer.WARNING 05/22/21 18:27:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:51:14,782.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:28:40 is 154.2
+2024-06-11 16:51:14,782.foodB_consumer.WARNING 05/22/21 18:28:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:51:17,798.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:28:45 is 154.2
+2024-06-11 16:51:17,798.foodB_consumer.WARNING 05/22/21 18:28:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:51:29,876.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:29:40 is 154.3
+2024-06-11 16:51:29,876.foodB_consumer.WARNING 05/22/21 18:29:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:51:32,888.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:29:45 is 154.3
+2024-06-11 16:51:32,889.foodB_consumer.WARNING 05/22/21 18:29:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:51:45,010.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:30:40 is 154.3
+2024-06-11 16:51:45,010.foodB_consumer.WARNING 05/22/21 18:30:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:51:48,019.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:30:45 is 154.3
+2024-06-11 16:51:48,019.foodB_consumer.WARNING 05/22/21 18:30:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:52:00,091.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:31:40 is 154.4
+2024-06-11 16:52:00,091.foodB_consumer.WARNING 05/22/21 18:31:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:52:03,105.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:31:45 is 154.4
+2024-06-11 16:52:03,105.foodB_consumer.WARNING 05/22/21 18:31:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:52:15,173.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:32:40 is 154.4
+2024-06-11 16:52:15,173.foodB_consumer.WARNING 05/22/21 18:32:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:52:18,182.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:32:45 is 154.4
+2024-06-11 16:52:18,182.foodB_consumer.WARNING 05/22/21 18:32:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:52:30,293.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:33:40 is 154.5
+2024-06-11 16:52:30,293.foodB_consumer.WARNING 05/22/21 18:33:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:52:33,307.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:33:45 is 154.5
+2024-06-11 16:52:33,307.foodB_consumer.WARNING 05/22/21 18:33:45: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:52:45,430.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:34:40 is 154.5
+2024-06-11 16:52:45,430.foodB_consumer.WARNING 05/22/21 18:34:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:52:48,447.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:34:45 is 154.5
+2024-06-11 16:52:48,447.foodB_consumer.WARNING 05/22/21 18:34:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:53:00,520.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:35:40 is 154.6
+2024-06-11 16:53:00,520.foodB_consumer.WARNING 05/22/21 18:35:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:53:03,534.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:35:45 is 154.6
+2024-06-11 16:53:03,534.foodB_consumer.WARNING 05/22/21 18:35:45: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:53:15,619.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:36:40 is 154.6
+2024-06-11 16:53:15,619.foodB_consumer.WARNING 05/22/21 18:36:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:53:18,635.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:36:45 is 154.6
+2024-06-11 16:53:18,635.foodB_consumer.WARNING 05/22/21 18:36:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:53:30,714.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:37:40 is 154.6
+2024-06-11 16:53:30,714.foodB_consumer.WARNING 05/22/21 18:37:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:53:33,730.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:37:45 is 154.6
+2024-06-11 16:53:33,730.foodB_consumer.WARNING 05/22/21 18:37:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:53:45,984.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:38:40 is 154.7
+2024-06-11 16:53:45,984.foodB_consumer.WARNING 05/22/21 18:38:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:53:48,995.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:38:45 is 154.7
+2024-06-11 16:53:48,995.foodB_consumer.WARNING 05/22/21 18:38:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:54:01,088.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:39:40 is 154.7
+2024-06-11 16:54:01,089.foodB_consumer.WARNING 05/22/21 18:39:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:54:04,105.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:39:45 is 154.7
+2024-06-11 16:54:04,105.foodB_consumer.WARNING 05/22/21 18:39:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:54:16,174.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:40:40 is 154.8
+2024-06-11 16:54:16,174.foodB_consumer.WARNING 05/22/21 18:40:40: FOOD B STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:54:19,235.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:40:45 is 154.8
+2024-06-11 16:54:19,235.foodB_consumer.WARNING 05/22/21 18:40:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:54:31,303.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:41:40 is 154.8
+2024-06-11 16:54:31,304.foodB_consumer.WARNING 05/22/21 18:41:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:54:34,314.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:41:45 is 154.8
+2024-06-11 16:54:34,314.foodB_consumer.WARNING 05/22/21 18:41:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:54:46,387.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:42:40 is 154.8
+2024-06-11 16:54:46,387.foodB_consumer.WARNING 05/22/21 18:42:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:54:49,400.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:42:45 is 154.8
+2024-06-11 16:54:49,400.foodB_consumer.WARNING 05/22/21 18:42:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:55:01,472.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:43:40 is 154.9
+2024-06-11 16:55:01,473.foodB_consumer.WARNING 05/22/21 18:43:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:55:04,487.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:43:45 is 154.9
+2024-06-11 16:55:04,487.foodB_consumer.WARNING 05/22/21 18:43:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:55:16,549.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:44:40 is 154.9
+2024-06-11 16:55:16,550.foodB_consumer.WARNING 05/22/21 18:44:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:55:19,570.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:44:45 is 154.9
+2024-06-11 16:55:19,570.foodB_consumer.WARNING 05/22/21 18:44:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:55:31,638.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:45:40 is 154.9
+2024-06-11 16:55:31,638.foodB_consumer.WARNING 05/22/21 18:45:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:55:34,650.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:45:45 is 154.9
+2024-06-11 16:55:34,650.foodB_consumer.WARNING 05/22/21 18:45:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:55:46,713.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:46:40 is 155.0
+2024-06-11 16:55:46,713.foodB_consumer.WARNING 05/22/21 18:46:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:55:49,722.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:46:45 is 155.0
+2024-06-11 16:55:49,722.foodB_consumer.WARNING 05/22/21 18:46:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:56:01,812.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:47:40 is 155.0
+2024-06-11 16:56:01,812.foodB_consumer.WARNING 05/22/21 18:47:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:56:04,829.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:47:45 is 155.0
+2024-06-11 16:56:04,829.foodB_consumer.WARNING 05/22/21 18:47:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:56:16,901.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:48:40 is 155.0
+2024-06-11 16:56:16,901.foodB_consumer.WARNING 05/22/21 18:48:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:56:19,917.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:48:45 is 155.0
+2024-06-11 16:56:19,917.foodB_consumer.WARNING 05/22/21 18:48:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:56:31,991.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:49:40 is 155.1
+2024-06-11 16:56:31,991.foodB_consumer.WARNING 05/22/21 18:49:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:56:35,004.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:49:45 is 155.1
+2024-06-11 16:56:35,004.foodB_consumer.WARNING 05/22/21 18:49:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:56:47,075.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:50:40 is 155.1
+2024-06-11 16:56:47,075.foodB_consumer.WARNING 05/22/21 18:50:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:56:50,086.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:50:45 is 155.1
+2024-06-11 16:56:50,086.foodB_consumer.WARNING 05/22/21 18:50:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:57:02,161.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:51:40 is 155.2
+2024-06-11 16:57:02,161.foodB_consumer.WARNING 05/22/21 18:51:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:57:05,178.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:51:45 is 155.2
+2024-06-11 16:57:05,178.foodB_consumer.WARNING 05/22/21 18:51:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:57:17,248.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:52:40 is 155.2
+2024-06-11 16:57:17,249.foodB_consumer.WARNING 05/22/21 18:52:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:57:20,263.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:52:45 is 155.2
+2024-06-11 16:57:20,263.foodB_consumer.WARNING 05/22/21 18:52:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:57:32,335.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:53:40 is 155.2
+2024-06-11 16:57:32,335.foodB_consumer.WARNING 05/22/21 18:53:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:57:35,346.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:53:45 is 155.2
+2024-06-11 16:57:35,346.foodB_consumer.WARNING 05/22/21 18:53:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:57:47,410.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:54:40 is 155.3
+2024-06-11 16:57:47,410.foodB_consumer.WARNING 05/22/21 18:54:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:57:50,424.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:54:45 is 155.3
+2024-06-11 16:57:50,425.foodB_consumer.WARNING 05/22/21 18:54:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:58:02,493.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:55:40 is 155.3
+2024-06-11 16:58:02,493.foodB_consumer.WARNING 05/22/21 18:55:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:58:05,504.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:55:45 is 155.3
+2024-06-11 16:58:05,504.foodB_consumer.WARNING 05/22/21 18:55:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:58:17,580.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:56:40 is 155.3
+2024-06-11 16:58:17,580.foodB_consumer.WARNING 05/22/21 18:56:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:58:20,594.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:56:45 is 155.3
+2024-06-11 16:58:20,594.foodB_consumer.WARNING 05/22/21 18:56:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:58:32,665.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:57:40 is 155.4
+2024-06-11 16:58:32,665.foodB_consumer.WARNING 05/22/21 18:57:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:58:35,681.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:57:45 is 155.4
+2024-06-11 16:58:35,681.foodB_consumer.WARNING 05/22/21 18:57:45: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:58:47,788.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:58:40 is 155.4
+2024-06-11 16:58:47,788.foodB_consumer.WARNING 05/22/21 18:58:40: FOOD B STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:58:50,803.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:58:45 is 155.4
+2024-06-11 16:58:50,803.foodB_consumer.WARNING 05/22/21 18:58:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:59:02,905.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:59:40 is 155.4
+2024-06-11 16:59:02,905.foodB_consumer.WARNING 05/22/21 18:59:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:59:05,917.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 18:59:45 is 155.4
+2024-06-11 16:59:05,917.foodB_consumer.WARNING 05/22/21 18:59:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:59:18,055.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:00:40 is 155.4
+2024-06-11 16:59:18,055.foodB_consumer.WARNING 05/22/21 19:00:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:59:21,070.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:00:45 is 155.4
+2024-06-11 16:59:21,070.foodB_consumer.WARNING 05/22/21 19:00:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:59:33,152.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:01:40 is 155.5
+2024-06-11 16:59:33,152.foodB_consumer.WARNING 05/22/21 19:01:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:59:36,169.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:01:45 is 155.5
+2024-06-11 16:59:36,169.foodB_consumer.WARNING 05/22/21 19:01:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:59:48,239.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:02:40 is 155.5
+2024-06-11 16:59:48,239.foodB_consumer.WARNING 05/22/21 19:02:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:59:51,255.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:02:45 is 155.5
+2024-06-11 16:59:51,255.foodB_consumer.WARNING 05/22/21 19:02:45: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 17:00:03,326.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:03:40 is 155.5
+2024-06-11 17:00:03,327.foodB_consumer.WARNING 05/22/21 19:03:40: FOOD B STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 17:00:06,350.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:03:45 is 155.5
+2024-06-11 17:00:06,350.foodB_consumer.WARNING 05/22/21 19:03:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:00:18,420.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:04:40 is 155.5
+2024-06-11 17:00:18,420.foodB_consumer.WARNING 05/22/21 19:04:40: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:00:21,433.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:04:45 is 155.5
+2024-06-11 17:00:21,433.foodB_consumer.WARNING 05/22/21 19:04:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:00:33,515.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:05:40 is 155.5
+2024-06-11 17:00:33,515.foodB_consumer.WARNING 05/22/21 19:05:40: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:00:36,525.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:05:45 is 155.5
+2024-06-11 17:00:36,525.foodB_consumer.WARNING 05/22/21 19:05:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:00:48,621.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:06:40 is 155.5
+2024-06-11 17:00:48,621.foodB_consumer.WARNING 05/22/21 19:06:40: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:00:51,632.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:06:45 is 155.5
+2024-06-11 17:00:51,633.foodB_consumer.WARNING 05/22/21 19:06:45: FOOD B STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 17:01:03,703.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:07:40 is 155.6
+2024-06-11 17:01:03,703.foodB_consumer.WARNING 05/22/21 19:07:40: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:01:06,714.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:07:45 is 155.6
+2024-06-11 17:01:06,714.foodB_consumer.WARNING 05/22/21 19:07:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:01:18,793.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:08:40 is 155.6
+2024-06-11 17:01:18,793.foodB_consumer.WARNING 05/22/21 19:08:40: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:01:21,805.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:08:45 is 155.6
+2024-06-11 17:01:21,805.foodB_consumer.WARNING 05/22/21 19:08:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:01:33,880.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:09:40 is 155.6
+2024-06-11 17:01:33,880.foodB_consumer.WARNING 05/22/21 19:09:40: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:01:36,896.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:09:45 is 155.6
+2024-06-11 17:01:36,896.foodB_consumer.WARNING 05/22/21 19:09:45: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:01:48,980.foodB_consumer.INFO  [x] Received Temperature at 05/22/21 19:10:40 is 155.6
+2024-06-11 17:01:48,980.foodB_consumer.WARNING 05/22/21 19:10:40: FOOD B STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 17:02:05,324.foodB_consumer.ERROR  User interrupted continuous listening process.
+2024-06-11 17:02:05,324.foodB_consumer.INFO Closing connection. Goodbye.

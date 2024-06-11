@@ -1,0 +1,888 @@
+2024-06-11 15:31:04,899.foodA_consumer.INFO ==================================================
+2024-06-11 15:31:04,900.foodA_consumer.INFO Today is 2024-06-11 at 03:31 PM
+2024-06-11 15:31:04,900.foodA_consumer.INFO Running on: posix Darwin 20.6.0
+2024-06-11 15:31:04,900.foodA_consumer.INFO Python version:  3.11.4
+2024-06-11 15:31:04,900.foodA_consumer.INFO Python path: /Users/jakerood/streaming-05-smart-smoker/.venv
+2024-06-11 15:31:04,901.foodA_consumer.INFO Working dir: /Users/jakerood/streaming-05-smart-smoker
+2024-06-11 15:31:04,901.foodA_consumer.INFO ==================================================
+2024-06-11 15:31:04,983.foodA_consumer.INFO  [*] Waiting for food A temperature messages. To exit press CTRL+C
+2024-06-11 15:40:11,750.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:46:35 is 38.7
+2024-06-11 15:40:14,760.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:46:40 is 38.7
+2024-06-11 15:40:26,833.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:47:35 is 37.1
+2024-06-11 15:40:29,850.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:47:40 is 37.1
+2024-06-11 15:40:41,918.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:48:35 is 36.9
+2024-06-11 15:40:44,934.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:48:40 is 36.9
+2024-06-11 15:40:57,010.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:49:35 is 36.9
+2024-06-11 15:41:00,027.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:49:40 is 36.9
+2024-06-11 15:41:12,109.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:50:35 is 37.2
+2024-06-11 15:41:15,121.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:50:40 is 37.2
+2024-06-11 15:41:27,200.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:51:35 is 37.5
+2024-06-11 15:41:30,217.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:51:40 is 37.5
+2024-06-11 15:41:42,341.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:52:35 is 37.9
+2024-06-11 15:41:45,357.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:52:40 is 37.9
+2024-06-11 15:41:57,432.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:53:35 is 38.4
+2024-06-11 15:42:00,454.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:53:40 is 38.4
+2024-06-11 15:42:12,533.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:54:35 is 39.1
+2024-06-11 15:42:15,550.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:54:40 is 39.1
+2024-06-11 15:42:27,626.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:55:35 is 39.9
+2024-06-11 15:42:30,642.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:55:40 is 39.9
+2024-06-11 15:42:42,830.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:56:35 is 40.6
+2024-06-11 15:42:45,846.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:56:40 is 40.6
+2024-06-11 15:42:57,925.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:57:35 is 41.4
+2024-06-11 15:43:00,942.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:57:40 is 41.4
+2024-06-11 15:43:13,012.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:58:35 is 42.2
+2024-06-11 15:43:16,029.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:58:40 is 42.2
+2024-06-11 15:43:28,107.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:59:35 is 43.1
+2024-06-11 15:43:31,119.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 13:59:40 is 43.1
+2024-06-11 15:43:43,197.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:00:35 is 44.1
+2024-06-11 15:43:46,214.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:00:40 is 44.1
+2024-06-11 15:43:58,396.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:01:35 is 45.1
+2024-06-11 15:44:01,412.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:01:40 is 45.1
+2024-06-11 15:44:13,487.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:02:35 is 46.0
+2024-06-11 15:44:16,499.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:02:40 is 46.0
+2024-06-11 15:44:28,591.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:03:35 is 47.1
+2024-06-11 15:44:31,607.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:03:40 is 47.1
+2024-06-11 15:44:43,691.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:04:35 is 48.2
+2024-06-11 15:44:46,707.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:04:40 is 48.2
+2024-06-11 15:44:58,784.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:05:35 is 49.4
+2024-06-11 15:45:01,799.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:05:40 is 49.4
+2024-06-11 15:45:13,872.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:06:35 is 50.5
+2024-06-11 15:45:16,888.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:06:40 is 50.5
+2024-06-11 15:45:28,970.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:07:35 is 51.8
+2024-06-11 15:45:31,986.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:07:40 is 51.8
+2024-06-11 15:45:44,062.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:08:35 is 52.9
+2024-06-11 15:45:47,078.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:08:40 is 52.9
+2024-06-11 15:45:59,149.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:09:35 is 54.2
+2024-06-11 15:46:02,163.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:09:40 is 54.2
+2024-06-11 15:46:14,306.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:10:35 is 55.6
+2024-06-11 15:46:17,323.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:10:40 is 55.6
+2024-06-11 15:46:29,400.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:11:35 is 56.8
+2024-06-11 15:46:32,434.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:11:40 is 56.8
+2024-06-11 15:46:44,536.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:12:35 is 58.2
+2024-06-11 15:46:47,551.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:12:40 is 58.2
+2024-06-11 15:46:59,625.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:13:35 is 59.4
+2024-06-11 15:47:02,639.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:13:40 is 59.4
+2024-06-11 15:47:14,717.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:14:35 is 60.7
+2024-06-11 15:47:17,734.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:14:40 is 60.7
+2024-06-11 15:47:29,811.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:15:35 is 62.1
+2024-06-11 15:47:32,825.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:15:40 is 62.1
+2024-06-11 15:47:44,901.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:16:35 is 63.3
+2024-06-11 15:47:47,917.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:16:40 is 63.3
+2024-06-11 15:47:59,988.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:17:35 is 64.5
+2024-06-11 15:48:02,997.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:17:40 is 64.5
+2024-06-11 15:48:15,081.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:18:35 is 65.6
+2024-06-11 15:48:18,094.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:18:40 is 65.6
+2024-06-11 15:48:30,171.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:19:35 is 66.9
+2024-06-11 15:48:33,179.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:19:40 is 66.9
+2024-06-11 15:48:45,257.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:20:35 is 68.1
+2024-06-11 15:48:48,275.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:20:40 is 68.1
+2024-06-11 15:49:00,347.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:21:35 is 69.2
+2024-06-11 15:49:03,359.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:21:40 is 69.2
+2024-06-11 15:49:15,429.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:22:35 is 70.3
+2024-06-11 15:49:18,444.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:22:40 is 70.3
+2024-06-11 15:49:30,514.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:23:35 is 71.5
+2024-06-11 15:49:33,528.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:23:40 is 71.5
+2024-06-11 15:49:45,599.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:24:35 is 72.6
+2024-06-11 15:49:48,615.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:24:40 is 72.6
+2024-06-11 15:50:00,684.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:25:35 is 73.8
+2024-06-11 15:50:03,697.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:25:40 is 73.8
+2024-06-11 15:50:15,773.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:26:35 is 74.9
+2024-06-11 15:50:18,789.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:26:40 is 74.9
+2024-06-11 15:50:30,871.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:27:35 is 76.0
+2024-06-11 15:50:33,885.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:27:40 is 76.0
+2024-06-11 15:50:45,965.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:28:35 is 77.1
+2024-06-11 15:50:48,981.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:28:40 is 77.1
+2024-06-11 15:51:01,062.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:29:35 is 78.1
+2024-06-11 15:51:04,078.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:29:40 is 78.1
+2024-06-11 15:51:16,153.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:30:35 is 79.2
+2024-06-11 15:51:19,170.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:30:40 is 79.2
+2024-06-11 15:51:31,242.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:31:35 is 80.2
+2024-06-11 15:51:34,256.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:31:40 is 80.2
+2024-06-11 15:51:46,378.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:32:35 is 81.2
+2024-06-11 15:51:49,395.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:32:40 is 81.2
+2024-06-11 15:52:01,470.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:33:35 is 82.3
+2024-06-11 15:52:04,482.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:33:40 is 82.3
+2024-06-11 15:52:16,560.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:34:35 is 83.3
+2024-06-11 15:52:19,573.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:34:40 is 83.3
+2024-06-11 15:52:31,657.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:35:35 is 84.3
+2024-06-11 15:52:34,668.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:35:40 is 84.3
+2024-06-11 15:52:46,741.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:36:35 is 85.3
+2024-06-11 15:52:49,757.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:36:40 is 85.3
+2024-06-11 15:53:01,831.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:37:35 is 86.4
+2024-06-11 15:53:04,847.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:37:40 is 86.4
+2024-06-11 15:53:17,009.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:38:35 is 87.4
+2024-06-11 15:53:20,025.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:38:40 is 87.4
+2024-06-11 15:53:32,100.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:39:35 is 88.4
+2024-06-11 15:53:35,114.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:39:40 is 88.4
+2024-06-11 15:53:47,195.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:40:35 is 89.4
+2024-06-11 15:53:50,207.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:40:40 is 89.4
+2024-06-11 15:54:02,281.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:41:35 is 90.5
+2024-06-11 15:54:05,298.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:41:40 is 90.5
+2024-06-11 15:54:17,371.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:42:35 is 91.5
+2024-06-11 15:54:20,388.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:42:40 is 91.5
+2024-06-11 15:54:32,460.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:43:35 is 92.5
+2024-06-11 15:54:35,470.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:43:40 is 92.5
+2024-06-11 15:54:47,552.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:44:35 is 93.5
+2024-06-11 15:54:50,563.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:44:40 is 93.5
+2024-06-11 15:55:02,635.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:45:35 is 94.5
+2024-06-11 15:55:05,649.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:45:40 is 94.5
+2024-06-11 15:55:17,728.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:46:35 is 95.5
+2024-06-11 15:55:20,740.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:46:40 is 95.5
+2024-06-11 15:55:32,811.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:47:35 is 96.5
+2024-06-11 15:55:35,828.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:47:40 is 96.5
+2024-06-11 15:55:47,909.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:48:35 is 97.4
+2024-06-11 15:55:50,925.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:48:40 is 97.4
+2024-06-11 15:56:03,001.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:49:35 is 98.4
+2024-06-11 15:56:06,014.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:49:40 is 98.4
+2024-06-11 15:56:18,084.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:50:35 is 99.3
+2024-06-11 15:56:21,099.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:50:40 is 99.3
+2024-06-11 15:56:33,171.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:51:35 is 100.2
+2024-06-11 15:56:36,182.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:51:40 is 100.2
+2024-06-11 15:56:48,260.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:52:35 is 101.1
+2024-06-11 15:56:51,271.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:52:40 is 101.1
+2024-06-11 15:57:03,347.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:53:35 is 102.0
+2024-06-11 15:57:06,358.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:53:40 is 102.0
+2024-06-11 15:57:18,431.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:54:35 is 102.8
+2024-06-11 15:57:21,445.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:54:40 is 102.8
+2024-06-11 15:57:33,521.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:55:35 is 103.7
+2024-06-11 15:57:36,538.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:55:40 is 103.7
+2024-06-11 15:57:48,622.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:56:35 is 104.6
+2024-06-11 15:57:51,639.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:56:40 is 104.6
+2024-06-11 15:58:03,720.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:57:35 is 105.4
+2024-06-11 15:58:06,736.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:57:40 is 105.4
+2024-06-11 15:58:18,808.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:58:35 is 106.2
+2024-06-11 15:58:21,821.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:58:40 is 106.2
+2024-06-11 15:58:33,917.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:59:35 is 107.0
+2024-06-11 15:58:36,931.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 14:59:40 is 107.0
+2024-06-11 15:58:49,008.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:00:35 is 107.8
+2024-06-11 15:58:52,060.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:00:40 is 107.8
+2024-06-11 15:59:04,133.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:01:35 is 108.6
+2024-06-11 15:59:07,149.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:01:40 is 108.6
+2024-06-11 15:59:19,233.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:02:35 is 109.3
+2024-06-11 15:59:22,249.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:02:40 is 109.3
+2024-06-11 15:59:34,409.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:03:35 is 110.1
+2024-06-11 15:59:37,426.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:03:40 is 110.1
+2024-06-11 15:59:49,552.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:04:35 is 110.9
+2024-06-11 15:59:52,569.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:04:40 is 110.9
+2024-06-11 16:00:04,646.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:05:35 is 111.6
+2024-06-11 16:00:07,656.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:05:40 is 111.6
+2024-06-11 16:00:19,737.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:06:35 is 112.4
+2024-06-11 16:00:22,747.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:06:40 is 112.4
+2024-06-11 16:00:34,823.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:07:35 is 113.1
+2024-06-11 16:00:37,836.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:07:40 is 113.1
+2024-06-11 16:00:49,913.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:08:35 is 113.8
+2024-06-11 16:00:52,927.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:08:40 is 113.8
+2024-06-11 16:01:05,081.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:09:35 is 114.5
+2024-06-11 16:01:08,094.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:09:40 is 114.5
+2024-06-11 16:01:20,182.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:10:35 is 115.2
+2024-06-11 16:01:23,193.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:10:40 is 115.2
+2024-06-11 16:01:35,266.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:11:35 is 115.9
+2024-06-11 16:01:38,283.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:11:40 is 115.9
+2024-06-11 16:01:50,349.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:12:35 is 116.5
+2024-06-11 16:01:53,365.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:12:40 is 116.5
+2024-06-11 16:02:05,441.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:13:35 is 117.2
+2024-06-11 16:02:08,454.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:13:40 is 117.2
+2024-06-11 16:02:20,529.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:14:35 is 117.9
+2024-06-11 16:02:23,542.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:14:40 is 117.9
+2024-06-11 16:02:35,624.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:15:35 is 118.6
+2024-06-11 16:02:38,641.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:15:40 is 118.6
+2024-06-11 16:02:50,737.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:16:35 is 119.3
+2024-06-11 16:02:53,745.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:16:40 is 119.3
+2024-06-11 16:03:05,845.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:17:35 is 120.0
+2024-06-11 16:03:08,855.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:17:40 is 120.0
+2024-06-11 16:03:20,934.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:18:35 is 120.6
+2024-06-11 16:03:23,954.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:18:40 is 120.6
+2024-06-11 16:03:36,023.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:19:35 is 121.3
+2024-06-11 16:03:39,039.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:19:40 is 121.3
+2024-06-11 16:03:51,103.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:20:35 is 121.9
+2024-06-11 16:03:54,120.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:20:40 is 121.9
+2024-06-11 16:04:06,192.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:21:35 is 122.5
+2024-06-11 16:04:09,206.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:21:40 is 122.5
+2024-06-11 16:04:21,288.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:22:35 is 123.1
+2024-06-11 16:04:24,301.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:22:40 is 123.1
+2024-06-11 16:04:36,390.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:23:35 is 123.8
+2024-06-11 16:04:39,467.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:23:40 is 123.8
+2024-06-11 16:04:51,631.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:24:35 is 124.3
+2024-06-11 16:04:54,647.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:24:40 is 124.3
+2024-06-11 16:05:06,723.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:25:35 is 124.9
+2024-06-11 16:05:09,745.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:25:40 is 124.9
+2024-06-11 16:05:21,816.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:26:35 is 125.5
+2024-06-11 16:05:24,829.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:26:40 is 125.5
+2024-06-11 16:05:36,903.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:27:35 is 126.1
+2024-06-11 16:05:39,920.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:27:40 is 126.1
+2024-06-11 16:05:52,000.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:28:35 is 126.6
+2024-06-11 16:05:55,017.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:28:40 is 126.6
+2024-06-11 16:06:07,093.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:29:35 is 127.2
+2024-06-11 16:06:10,104.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:29:40 is 127.2
+2024-06-11 16:06:22,185.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:30:35 is 127.7
+2024-06-11 16:06:25,200.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:30:40 is 127.7
+2024-06-11 16:06:37,284.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:31:35 is 128.2
+2024-06-11 16:06:40,296.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:31:40 is 128.2
+2024-06-11 16:06:52,374.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:32:35 is 128.7
+2024-06-11 16:06:55,382.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:32:40 is 128.7
+2024-06-11 16:07:07,452.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:33:35 is 129.2
+2024-06-11 16:07:10,466.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:33:40 is 129.2
+2024-06-11 16:07:22,539.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:34:35 is 129.7
+2024-06-11 16:07:25,555.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:34:40 is 129.7
+2024-06-11 16:07:37,633.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:35:35 is 130.2
+2024-06-11 16:07:40,650.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:35:40 is 130.2
+2024-06-11 16:07:52,732.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:36:35 is 130.7
+2024-06-11 16:07:55,750.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:36:40 is 130.7
+2024-06-11 16:08:07,825.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:37:35 is 131.2
+2024-06-11 16:08:10,842.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:37:40 is 131.2
+2024-06-11 16:08:22,909.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:38:35 is 131.7
+2024-06-11 16:08:25,926.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:38:40 is 131.7
+2024-06-11 16:08:38,005.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:39:35 is 132.2
+2024-06-11 16:08:41,019.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:39:40 is 132.2
+2024-06-11 16:08:53,147.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:40:35 is 132.7
+2024-06-11 16:08:56,165.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:40:40 is 132.7
+2024-06-11 16:09:08,248.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:41:35 is 133.2
+2024-06-11 16:09:11,263.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:41:40 is 133.2
+2024-06-11 16:09:23,384.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:42:35 is 133.6
+2024-06-11 16:09:26,394.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:42:40 is 133.6
+2024-06-11 16:09:38,499.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:43:35 is 134.0
+2024-06-11 16:09:41,518.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:43:40 is 134.0
+2024-06-11 16:09:53,675.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:44:35 is 134.4
+2024-06-11 16:09:56,686.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:44:40 is 134.4
+2024-06-11 16:10:08,889.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:45:35 is 134.9
+2024-06-11 16:10:11,904.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:45:40 is 134.9
+2024-06-11 16:10:23,972.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:46:35 is 135.3
+2024-06-11 16:10:26,988.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:46:40 is 135.3
+2024-06-11 16:10:39,069.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:47:35 is 135.7
+2024-06-11 16:10:42,085.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:47:40 is 135.7
+2024-06-11 16:10:54,158.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:48:35 is 136.1
+2024-06-11 16:10:57,170.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:48:40 is 136.1
+2024-06-11 16:11:09,333.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:49:35 is 136.5
+2024-06-11 16:11:12,350.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:49:40 is 136.5
+2024-06-11 16:11:24,585.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:50:35 is 136.9
+2024-06-11 16:11:27,599.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:50:40 is 136.9
+2024-06-11 16:11:39,679.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:51:35 is 137.3
+2024-06-11 16:11:42,693.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:51:40 is 137.3
+2024-06-11 16:11:54,773.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:52:35 is 137.7
+2024-06-11 16:11:57,787.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:52:40 is 137.7
+2024-06-11 16:12:09,864.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:53:35 is 138.1
+2024-06-11 16:12:12,879.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:53:40 is 138.1
+2024-06-11 16:12:24,947.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:54:35 is 138.4
+2024-06-11 16:12:27,963.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:54:40 is 138.4
+2024-06-11 16:12:40,038.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:55:35 is 138.8
+2024-06-11 16:12:43,106.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:55:40 is 138.8
+2024-06-11 16:12:55,288.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:56:35 is 139.2
+2024-06-11 16:12:58,302.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:56:40 is 139.2
+2024-06-11 16:13:10,381.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:57:35 is 139.5
+2024-06-11 16:13:13,512.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:57:40 is 139.5
+2024-06-11 16:13:25,689.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:58:35 is 139.9
+2024-06-11 16:13:28,705.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:58:40 is 139.9
+2024-06-11 16:13:40,767.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:59:35 is 140.2
+2024-06-11 16:13:43,784.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 15:59:40 is 140.2
+2024-06-11 16:13:55,864.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:00:35 is 140.6
+2024-06-11 16:13:58,884.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:00:40 is 140.6
+2024-06-11 16:14:11,069.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:01:35 is 140.9
+2024-06-11 16:14:14,110.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:01:40 is 140.9
+2024-06-11 16:14:26,193.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:02:35 is 141.2
+2024-06-11 16:14:29,209.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:02:40 is 141.2
+2024-06-11 16:14:41,287.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:03:35 is 141.6
+2024-06-11 16:14:44,304.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:03:40 is 141.6
+2024-06-11 16:14:56,379.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:04:35 is 141.9
+2024-06-11 16:14:59,419.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:04:40 is 141.9
+2024-06-11 16:15:11,499.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:05:35 is 142.2
+2024-06-11 16:15:14,509.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:05:40 is 142.2
+2024-06-11 16:15:26,599.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:06:35 is 142.6
+2024-06-11 16:15:29,612.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:06:40 is 142.6
+2024-06-11 16:15:41,701.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:07:35 is 142.7
+2024-06-11 16:15:44,793.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:07:40 is 142.7
+2024-06-11 16:15:56,865.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:08:35 is 143.0
+2024-06-11 16:15:59,877.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:08:40 is 143.0
+2024-06-11 16:16:11,967.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:09:35 is 143.3
+2024-06-11 16:16:14,985.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:09:40 is 143.3
+2024-06-11 16:16:27,097.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:10:35 is 143.7
+2024-06-11 16:16:30,110.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:10:40 is 143.7
+2024-06-11 16:16:42,178.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:11:35 is 144.0
+2024-06-11 16:16:45,190.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:11:40 is 144.0
+2024-06-11 16:16:57,279.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:12:35 is 144.3
+2024-06-11 16:17:00,293.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:12:40 is 144.3
+2024-06-11 16:17:12,378.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:13:35 is 144.6
+2024-06-11 16:17:15,396.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:13:40 is 144.6
+2024-06-11 16:17:27,474.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:14:35 is 144.9
+2024-06-11 16:17:30,487.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:14:40 is 144.9
+2024-06-11 16:17:42,568.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:15:35 is 145.3
+2024-06-11 16:17:45,582.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:15:40 is 145.3
+2024-06-11 16:17:57,660.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:16:35 is 145.6
+2024-06-11 16:18:00,676.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:16:40 is 145.6
+2024-06-11 16:18:12,751.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:17:35 is 145.9
+2024-06-11 16:18:15,764.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:17:40 is 145.9
+2024-06-11 16:18:27,849.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:18:35 is 146.2
+2024-06-11 16:18:30,873.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:18:40 is 146.2
+2024-06-11 16:18:42,968.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:19:35 is 146.6
+2024-06-11 16:18:45,981.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:19:40 is 146.6
+2024-06-11 16:18:58,065.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:20:35 is 146.9
+2024-06-11 16:19:01,081.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:20:40 is 146.9
+2024-06-11 16:19:13,161.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:21:35 is 147.3
+2024-06-11 16:19:16,175.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:21:40 is 147.3
+2024-06-11 16:19:28,252.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:22:35 is 147.6
+2024-06-11 16:19:31,266.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:22:40 is 147.6
+2024-06-11 16:19:43,439.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:23:35 is 147.9
+2024-06-11 16:19:46,455.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:23:40 is 147.9
+2024-06-11 16:19:58,527.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:24:35 is 148.2
+2024-06-11 16:20:01,539.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:24:40 is 148.2
+2024-06-11 16:20:13,619.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:25:35 is 148.5
+2024-06-11 16:20:16,635.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:25:40 is 148.5
+2024-06-11 16:20:28,719.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:26:35 is 148.8
+2024-06-11 16:20:31,732.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:26:40 is 148.8
+2024-06-11 16:20:43,811.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:27:35 is 149.1
+2024-06-11 16:20:46,824.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:27:40 is 149.1
+2024-06-11 16:20:58,896.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:28:35 is 149.4
+2024-06-11 16:21:01,961.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:28:40 is 149.4
+2024-06-11 16:21:14,099.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:29:35 is 149.8
+2024-06-11 16:21:17,109.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:29:40 is 149.8
+2024-06-11 16:21:29,181.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:30:35 is 150.1
+2024-06-11 16:21:32,194.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:30:40 is 150.1
+2024-06-11 16:21:44,286.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:31:35 is 150.4
+2024-06-11 16:21:47,297.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:31:40 is 150.4
+2024-06-11 16:21:59,612.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:32:35 is 150.7
+2024-06-11 16:22:02,629.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:32:40 is 150.7
+2024-06-11 16:22:14,703.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:33:35 is 151.0
+2024-06-11 16:22:17,716.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:33:40 is 151.0
+2024-06-11 16:22:29,796.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:34:35 is 151.3
+2024-06-11 16:22:32,812.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:34:40 is 151.3
+2024-06-11 16:22:44,925.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:35:35 is 151.4
+2024-06-11 16:22:47,939.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:35:40 is 151.4
+2024-06-11 16:23:00,013.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:36:35 is 151.7
+2024-06-11 16:23:03,028.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:36:40 is 151.7
+2024-06-11 16:23:15,108.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:37:35 is 152.0
+2024-06-11 16:23:18,123.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:37:40 is 152.0
+2024-06-11 16:23:30,201.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:38:35 is 152.3
+2024-06-11 16:23:33,211.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:38:40 is 152.3
+2024-06-11 16:23:45,286.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:39:35 is 152.6
+2024-06-11 16:23:48,302.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:39:40 is 152.6
+2024-06-11 16:24:00,377.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:40:35 is 152.8
+2024-06-11 16:24:03,395.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:40:40 is 152.8
+2024-06-11 16:24:15,461.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:41:35 is 153.0
+2024-06-11 16:24:18,474.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:41:40 is 153.0
+2024-06-11 16:24:30,553.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:42:35 is 153.3
+2024-06-11 16:24:33,570.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:42:40 is 153.3
+2024-06-11 16:24:45,652.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:43:35 is 153.6
+2024-06-11 16:24:48,663.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:43:40 is 153.6
+2024-06-11 16:25:00,759.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:44:35 is 153.9
+2024-06-11 16:25:03,774.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:44:40 is 153.9
+2024-06-11 16:25:15,843.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:45:35 is 154.1
+2024-06-11 16:25:18,856.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:45:40 is 154.1
+2024-06-11 16:25:30,939.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:46:35 is 154.4
+2024-06-11 16:25:33,950.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:46:40 is 154.4
+2024-06-11 16:25:46,023.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:47:35 is 154.6
+2024-06-11 16:25:49,040.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:47:40 is 154.6
+2024-06-11 16:26:01,116.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:48:35 is 154.9
+2024-06-11 16:26:04,199.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:48:40 is 154.9
+2024-06-11 16:26:16,273.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:49:35 is 155.1
+2024-06-11 16:26:19,289.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:49:40 is 155.1
+2024-06-11 16:26:31,358.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:50:35 is 155.3
+2024-06-11 16:26:34,373.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:50:40 is 155.3
+2024-06-11 16:26:46,449.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:51:35 is 155.5
+2024-06-11 16:26:49,465.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:51:40 is 155.5
+2024-06-11 16:27:01,613.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:52:35 is 155.8
+2024-06-11 16:27:04,627.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:52:40 is 155.8
+2024-06-11 16:27:16,708.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:53:35 is 156.0
+2024-06-11 16:27:19,723.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:53:40 is 156.0
+2024-06-11 16:27:31,796.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:54:35 is 156.2
+2024-06-11 16:27:34,813.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:54:40 is 156.2
+2024-06-11 16:27:46,891.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:55:35 is 156.4
+2024-06-11 16:27:49,909.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:55:40 is 156.4
+2024-06-11 16:28:01,993.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:56:35 is 156.6
+2024-06-11 16:28:05,006.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:56:40 is 156.6
+2024-06-11 16:28:17,084.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:57:35 is 156.8
+2024-06-11 16:28:20,101.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:57:40 is 156.8
+2024-06-11 16:28:32,182.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:58:35 is 156.9
+2024-06-11 16:28:35,193.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:58:40 is 156.9
+2024-06-11 16:28:47,268.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:59:35 is 157.1
+2024-06-11 16:28:50,279.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 16:59:40 is 157.1
+2024-06-11 16:29:02,350.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:00:35 is 157.3
+2024-06-11 16:29:05,367.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:00:40 is 157.3
+2024-06-11 16:29:17,435.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:01:35 is 157.5
+2024-06-11 16:29:20,451.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:01:40 is 157.5
+2024-06-11 16:29:32,530.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:02:35 is 157.7
+2024-06-11 16:29:35,543.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:02:40 is 157.7
+2024-06-11 16:29:47,621.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:03:35 is 157.8
+2024-06-11 16:29:50,634.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:03:40 is 157.8
+2024-06-11 16:30:02,710.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:04:35 is 158.0
+2024-06-11 16:30:05,724.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:04:40 is 158.0
+2024-06-11 16:30:17,806.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:05:35 is 158.1
+2024-06-11 16:30:20,823.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:05:40 is 158.1
+2024-06-11 16:30:32,892.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:06:35 is 158.3
+2024-06-11 16:30:35,906.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:06:40 is 158.3
+2024-06-11 16:30:47,984.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:07:35 is 158.4
+2024-06-11 16:30:51,002.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:07:40 is 158.4
+2024-06-11 16:31:03,067.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:08:35 is 158.5
+2024-06-11 16:31:06,083.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:08:40 is 158.5
+2024-06-11 16:31:18,155.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:09:35 is 158.7
+2024-06-11 16:31:21,168.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:09:40 is 158.7
+2024-06-11 16:31:33,240.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:10:35 is 158.8
+2024-06-11 16:31:36,317.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:10:40 is 158.8
+2024-06-11 16:31:48,391.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:11:35 is 158.9
+2024-06-11 16:31:51,408.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:11:40 is 158.9
+2024-06-11 16:32:03,477.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:12:35 is 159.0
+2024-06-11 16:32:06,492.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:12:40 is 159.0
+2024-06-11 16:32:18,629.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:13:35 is 159.1
+2024-06-11 16:32:21,646.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:13:40 is 159.1
+2024-06-11 16:32:33,727.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:14:35 is 159.2
+2024-06-11 16:32:36,739.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:14:40 is 159.2
+2024-06-11 16:32:48,806.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:15:35 is 159.3
+2024-06-11 16:32:51,820.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:15:40 is 159.3
+2024-06-11 16:32:51,820.foodA_consumer.WARNING 05/22/21 17:15:40: FOOD A STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:33:03,900.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:16:35 is 159.4
+2024-06-11 16:33:06,914.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:16:40 is 159.4
+2024-06-11 16:33:06,915.foodA_consumer.WARNING 05/22/21 17:16:40: FOOD A STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:33:18,986.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:17:35 is 159.5
+2024-06-11 16:33:22,000.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:17:40 is 159.5
+2024-06-11 16:33:22,001.foodA_consumer.WARNING 05/22/21 17:17:40: FOOD A STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:33:34,072.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:18:35 is 159.6
+2024-06-11 16:33:37,086.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:18:40 is 159.6
+2024-06-11 16:33:37,086.foodA_consumer.WARNING 05/22/21 17:18:40: FOOD A STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:33:49,160.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:19:35 is 159.7
+2024-06-11 16:33:49,160.foodA_consumer.WARNING 05/22/21 17:19:35: FOOD A STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:33:52,177.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:19:40 is 159.7
+2024-06-11 16:33:52,177.foodA_consumer.WARNING 05/22/21 17:19:40: FOOD A STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:34:04,240.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:20:35 is 159.8
+2024-06-11 16:34:04,241.foodA_consumer.WARNING 05/22/21 17:20:35: FOOD A STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:34:07,254.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:20:40 is 159.8
+2024-06-11 16:34:07,254.foodA_consumer.WARNING 05/22/21 17:20:40: FOOD A STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:34:19,331.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:21:35 is 159.9
+2024-06-11 16:34:19,331.foodA_consumer.WARNING 05/22/21 17:21:35: FOOD A STALL ALERT! Temperature change is 1.0 F in 10.0 minutes.
+2024-06-11 16:34:22,347.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:21:40 is 159.9
+2024-06-11 16:34:22,347.foodA_consumer.WARNING 05/22/21 17:21:40: FOOD A STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:34:34,426.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:22:35 is 159.9
+2024-06-11 16:34:34,426.foodA_consumer.WARNING 05/22/21 17:22:35: FOOD A STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:34:37,437.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:22:40 is 159.9
+2024-06-11 16:34:37,437.foodA_consumer.WARNING 05/22/21 17:22:40: FOOD A STALL ALERT! Temperature change is 0.8 F in 10.0 minutes.
+2024-06-11 16:34:49,522.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:23:35 is 160.0
+2024-06-11 16:34:49,523.foodA_consumer.WARNING 05/22/21 17:23:35: FOOD A STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:34:52,532.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:23:40 is 160.0
+2024-06-11 16:34:52,532.foodA_consumer.WARNING 05/22/21 17:23:40: FOOD A STALL ALERT! Temperature change is 0.8 F in 10.0 minutes.
+2024-06-11 16:35:04,624.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:24:35 is 160.1
+2024-06-11 16:35:04,624.foodA_consumer.WARNING 05/22/21 17:24:35: FOOD A STALL ALERT! Temperature change is 0.9 F in 10.0 minutes.
+2024-06-11 16:35:07,638.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:24:40 is 160.1
+2024-06-11 16:35:07,638.foodA_consumer.WARNING 05/22/21 17:24:40: FOOD A STALL ALERT! Temperature change is 0.8 F in 10.0 minutes.
+2024-06-11 16:35:19,736.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:25:35 is 160.1
+2024-06-11 16:35:19,736.foodA_consumer.WARNING 05/22/21 17:25:35: FOOD A STALL ALERT! Temperature change is 0.8 F in 10.0 minutes.
+2024-06-11 16:35:22,748.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:25:40 is 160.1
+2024-06-11 16:35:22,748.foodA_consumer.WARNING 05/22/21 17:25:40: FOOD A STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:35:34,827.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:26:35 is 160.2
+2024-06-11 16:35:34,827.foodA_consumer.WARNING 05/22/21 17:26:35: FOOD A STALL ALERT! Temperature change is 0.8 F in 10.0 minutes.
+2024-06-11 16:35:37,836.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:26:40 is 160.2
+2024-06-11 16:35:37,836.foodA_consumer.WARNING 05/22/21 17:26:40: FOOD A STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:35:49,943.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:27:35 is 160.2
+2024-06-11 16:35:49,943.foodA_consumer.WARNING 05/22/21 17:27:35: FOOD A STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:35:52,955.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:27:40 is 160.2
+2024-06-11 16:35:52,955.foodA_consumer.WARNING 05/22/21 17:27:40: FOOD A STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:36:05,206.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:28:35 is 160.3
+2024-06-11 16:36:05,206.foodA_consumer.WARNING 05/22/21 17:28:35: FOOD A STALL ALERT! Temperature change is 0.7 F in 10.0 minutes.
+2024-06-11 16:36:08,217.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:28:40 is 160.3
+2024-06-11 16:36:08,218.foodA_consumer.WARNING 05/22/21 17:28:40: FOOD A STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:36:20,285.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:29:35 is 160.3
+2024-06-11 16:36:20,285.foodA_consumer.WARNING 05/22/21 17:29:35: FOOD A STALL ALERT! Temperature change is 0.6 F in 10.0 minutes.
+2024-06-11 16:36:23,293.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:29:40 is 160.3
+2024-06-11 16:36:23,294.foodA_consumer.WARNING 05/22/21 17:29:40: FOOD A STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:36:35,361.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:30:35 is 160.3
+2024-06-11 16:36:35,361.foodA_consumer.WARNING 05/22/21 17:30:35: FOOD A STALL ALERT! Temperature change is 0.5 F in 10.0 minutes.
+2024-06-11 16:36:38,377.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:30:40 is 160.3
+2024-06-11 16:36:38,377.foodA_consumer.WARNING 05/22/21 17:30:40: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:36:50,454.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:31:35 is 160.3
+2024-06-11 16:36:50,454.foodA_consumer.WARNING 05/22/21 17:31:35: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:36:53,468.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:31:40 is 160.3
+2024-06-11 16:36:53,468.foodA_consumer.WARNING 05/22/21 17:31:40: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:37:05,589.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:32:35 is 160.3
+2024-06-11 16:37:05,589.foodA_consumer.WARNING 05/22/21 17:32:35: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:37:08,605.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:32:40 is 160.3
+2024-06-11 16:37:08,605.foodA_consumer.WARNING 05/22/21 17:32:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:37:20,694.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:33:35 is 160.4
+2024-06-11 16:37:20,694.foodA_consumer.WARNING 05/22/21 17:33:35: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:37:23,713.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:33:40 is 160.4
+2024-06-11 16:37:23,713.foodA_consumer.WARNING 05/22/21 17:33:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:37:35,777.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:34:35 is 160.4
+2024-06-11 16:37:35,777.foodA_consumer.WARNING 05/22/21 17:34:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:37:38,790.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:34:40 is 160.4
+2024-06-11 16:37:38,790.foodA_consumer.WARNING 05/22/21 17:34:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:37:50,876.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:35:35 is 160.4
+2024-06-11 16:37:50,877.foodA_consumer.WARNING 05/22/21 17:35:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:37:53,892.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:35:40 is 160.4
+2024-06-11 16:37:53,892.foodA_consumer.WARNING 05/22/21 17:35:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:38:06,055.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:36:35 is 160.5
+2024-06-11 16:38:06,057.foodA_consumer.WARNING 05/22/21 17:36:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:38:09,068.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:36:40 is 160.5
+2024-06-11 16:38:09,068.foodA_consumer.WARNING 05/22/21 17:36:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:38:21,144.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:37:35 is 160.5
+2024-06-11 16:38:21,144.foodA_consumer.WARNING 05/22/21 17:37:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:38:24,157.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:37:40 is 160.5
+2024-06-11 16:38:24,157.foodA_consumer.WARNING 05/22/21 17:37:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:38:36,432.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:38:35 is 160.5
+2024-06-11 16:38:36,435.foodA_consumer.WARNING 05/22/21 17:38:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:38:39,453.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:38:40 is 160.5
+2024-06-11 16:38:39,453.foodA_consumer.WARNING 05/22/21 17:38:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:38:51,580.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:39:35 is 160.6
+2024-06-11 16:38:51,580.foodA_consumer.WARNING 05/22/21 17:39:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:38:54,601.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:39:40 is 160.6
+2024-06-11 16:38:54,601.foodA_consumer.WARNING 05/22/21 17:39:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:39:06,676.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:40:35 is 160.6
+2024-06-11 16:39:06,676.foodA_consumer.WARNING 05/22/21 17:40:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:39:09,693.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:40:40 is 160.6
+2024-06-11 16:39:09,693.foodA_consumer.WARNING 05/22/21 17:40:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:39:21,763.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:41:35 is 160.6
+2024-06-11 16:39:21,763.foodA_consumer.WARNING 05/22/21 17:41:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:39:24,777.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:41:40 is 160.6
+2024-06-11 16:39:24,777.foodA_consumer.WARNING 05/22/21 17:41:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:39:36,984.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:42:35 is 160.7
+2024-06-11 16:39:36,985.foodA_consumer.WARNING 05/22/21 17:42:35: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:39:40,002.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:42:40 is 160.7
+2024-06-11 16:39:40,002.foodA_consumer.WARNING 05/22/21 17:42:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:39:52,066.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:43:35 is 160.7
+2024-06-11 16:39:52,066.foodA_consumer.WARNING 05/22/21 17:43:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:39:55,079.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:43:40 is 160.7
+2024-06-11 16:39:55,079.foodA_consumer.WARNING 05/22/21 17:43:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:07,165.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:44:35 is 160.7
+2024-06-11 16:40:07,165.foodA_consumer.WARNING 05/22/21 17:44:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:10,176.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:44:40 is 160.7
+2024-06-11 16:40:10,176.foodA_consumer.WARNING 05/22/21 17:44:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:22,257.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:45:35 is 160.8
+2024-06-11 16:40:22,257.foodA_consumer.WARNING 05/22/21 17:45:35: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:40:25,272.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:45:40 is 160.8
+2024-06-11 16:40:25,272.foodA_consumer.WARNING 05/22/21 17:45:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:37,346.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:46:35 is 160.8
+2024-06-11 16:40:37,346.foodA_consumer.WARNING 05/22/21 17:46:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:40,366.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:46:40 is 160.8
+2024-06-11 16:40:40,366.foodA_consumer.WARNING 05/22/21 17:46:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:40:52,440.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:47:35 is 160.9
+2024-06-11 16:40:52,440.foodA_consumer.WARNING 05/22/21 17:47:35: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:40:55,454.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:47:40 is 160.9
+2024-06-11 16:40:55,454.foodA_consumer.WARNING 05/22/21 17:47:40: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:41:07,523.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:48:35 is 160.9
+2024-06-11 16:41:07,523.foodA_consumer.WARNING 05/22/21 17:48:35: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:41:10,536.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:48:40 is 160.9
+2024-06-11 16:41:10,537.foodA_consumer.WARNING 05/22/21 17:48:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:41:22,616.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:49:35 is 160.9
+2024-06-11 16:41:22,617.foodA_consumer.WARNING 05/22/21 17:49:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:41:25,634.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:49:40 is 160.9
+2024-06-11 16:41:25,634.foodA_consumer.WARNING 05/22/21 17:49:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:41:37,706.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:50:35 is 161.0
+2024-06-11 16:41:37,706.foodA_consumer.WARNING 05/22/21 17:50:35: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:41:40,719.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:50:40 is 161.0
+2024-06-11 16:41:40,719.foodA_consumer.WARNING 05/22/21 17:50:40: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:41:52,788.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:51:35 is 161.0
+2024-06-11 16:41:52,788.foodA_consumer.WARNING 05/22/21 17:51:35: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:41:55,801.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:51:40 is 161.0
+2024-06-11 16:41:55,801.foodA_consumer.WARNING 05/22/21 17:51:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:07,875.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:52:35 is 161.0
+2024-06-11 16:42:07,875.foodA_consumer.WARNING 05/22/21 17:52:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:10,892.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:52:40 is 161.0
+2024-06-11 16:42:10,892.foodA_consumer.WARNING 05/22/21 17:52:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:22,966.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:53:35 is 161.0
+2024-06-11 16:42:22,966.foodA_consumer.WARNING 05/22/21 17:53:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:25,981.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:53:40 is 161.0
+2024-06-11 16:42:25,981.foodA_consumer.WARNING 05/22/21 17:53:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:38,052.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:54:35 is 161.1
+2024-06-11 16:42:38,053.foodA_consumer.WARNING 05/22/21 17:54:35: FOOD A STALL ALERT! Temperature change is 0.4 F in 10.0 minutes.
+2024-06-11 16:42:41,062.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:54:40 is 161.1
+2024-06-11 16:42:41,062.foodA_consumer.WARNING 05/22/21 17:54:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:53,170.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:55:35 is 161.1
+2024-06-11 16:42:53,172.foodA_consumer.WARNING 05/22/21 17:55:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:42:56,186.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:55:40 is 161.1
+2024-06-11 16:42:56,186.foodA_consumer.WARNING 05/22/21 17:55:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:43:08,264.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:56:35 is 161.1
+2024-06-11 16:43:08,264.foodA_consumer.WARNING 05/22/21 17:56:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:43:11,280.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:56:40 is 161.1
+2024-06-11 16:43:11,280.foodA_consumer.WARNING 05/22/21 17:56:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:43:23,359.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:57:35 is 161.1
+2024-06-11 16:43:23,360.foodA_consumer.WARNING 05/22/21 17:57:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:43:26,371.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:57:40 is 161.1
+2024-06-11 16:43:26,371.foodA_consumer.WARNING 05/22/21 17:57:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:43:38,489.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:58:35 is 161.2
+2024-06-11 16:43:38,489.foodA_consumer.WARNING 05/22/21 17:58:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:43:41,500.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:58:40 is 161.2
+2024-06-11 16:43:41,500.foodA_consumer.WARNING 05/22/21 17:58:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:43:53,759.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:59:35 is 161.2
+2024-06-11 16:43:53,759.foodA_consumer.WARNING 05/22/21 17:59:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:43:56,776.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 17:59:40 is 161.2
+2024-06-11 16:43:56,776.foodA_consumer.WARNING 05/22/21 17:59:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:44:08,847.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:00:35 is 161.2
+2024-06-11 16:44:08,848.foodA_consumer.WARNING 05/22/21 18:00:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:44:11,862.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:00:40 is 161.2
+2024-06-11 16:44:11,862.foodA_consumer.WARNING 05/22/21 18:00:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:44:23,943.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:01:35 is 161.2
+2024-06-11 16:44:23,944.foodA_consumer.WARNING 05/22/21 18:01:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:44:26,956.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:01:40 is 161.2
+2024-06-11 16:44:26,956.foodA_consumer.WARNING 05/22/21 18:01:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:44:39,022.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:02:35 is 161.2
+2024-06-11 16:44:39,022.foodA_consumer.WARNING 05/22/21 18:02:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:44:42,033.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:02:40 is 161.2
+2024-06-11 16:44:42,033.foodA_consumer.WARNING 05/22/21 18:02:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:44:54,109.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:03:35 is 161.2
+2024-06-11 16:44:54,116.foodA_consumer.WARNING 05/22/21 18:03:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:44:57,127.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:03:40 is 161.2
+2024-06-11 16:44:57,127.foodA_consumer.WARNING 05/22/21 18:03:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:45:09,218.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:04:35 is 161.3
+2024-06-11 16:45:09,219.foodA_consumer.WARNING 05/22/21 18:04:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:45:12,241.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:04:40 is 161.3
+2024-06-11 16:45:12,241.foodA_consumer.WARNING 05/22/21 18:04:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:45:24,317.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:05:35 is 161.3
+2024-06-11 16:45:24,317.foodA_consumer.WARNING 05/22/21 18:05:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:45:27,331.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:05:40 is 161.3
+2024-06-11 16:45:27,332.foodA_consumer.WARNING 05/22/21 18:05:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:45:39,421.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:06:35 is 161.3
+2024-06-11 16:45:39,421.foodA_consumer.WARNING 05/22/21 18:06:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:45:42,431.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:06:40 is 161.3
+2024-06-11 16:45:42,431.foodA_consumer.WARNING 05/22/21 18:06:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:45:54,515.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:07:35 is 161.3
+2024-06-11 16:45:54,517.foodA_consumer.WARNING 05/22/21 18:07:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:45:57,530.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:07:40 is 161.3
+2024-06-11 16:45:57,531.foodA_consumer.WARNING 05/22/21 18:07:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:46:09,600.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:08:35 is 161.4
+2024-06-11 16:46:09,600.foodA_consumer.WARNING 05/22/21 18:08:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:46:12,612.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:08:40 is 161.4
+2024-06-11 16:46:12,612.foodA_consumer.WARNING 05/22/21 18:08:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:46:24,684.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:09:35 is 161.4
+2024-06-11 16:46:24,684.foodA_consumer.WARNING 05/22/21 18:09:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:46:27,695.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:09:40 is 161.4
+2024-06-11 16:46:27,695.foodA_consumer.WARNING 05/22/21 18:09:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:46:39,769.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:10:35 is 161.4
+2024-06-11 16:46:39,769.foodA_consumer.WARNING 05/22/21 18:10:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:46:42,786.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:10:40 is 161.4
+2024-06-11 16:46:42,787.foodA_consumer.WARNING 05/22/21 18:10:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:46:54,873.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:11:35 is 161.4
+2024-06-11 16:46:54,873.foodA_consumer.WARNING 05/22/21 18:11:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:46:57,888.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:11:40 is 161.4
+2024-06-11 16:46:57,888.foodA_consumer.WARNING 05/22/21 18:11:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:47:09,961.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:12:35 is 161.4
+2024-06-11 16:47:09,962.foodA_consumer.WARNING 05/22/21 18:12:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:47:12,978.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:12:40 is 161.4
+2024-06-11 16:47:12,979.foodA_consumer.WARNING 05/22/21 18:12:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:47:25,060.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:13:35 is 161.4
+2024-06-11 16:47:25,060.foodA_consumer.WARNING 05/22/21 18:13:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:47:28,073.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:13:40 is 161.4
+2024-06-11 16:47:28,073.foodA_consumer.WARNING 05/22/21 18:13:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:47:40,142.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:14:35 is 161.4
+2024-06-11 16:47:40,142.foodA_consumer.WARNING 05/22/21 18:14:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:47:43,154.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:14:40 is 161.4
+2024-06-11 16:47:43,154.foodA_consumer.WARNING 05/22/21 18:14:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:47:55,226.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:15:35 is 161.4
+2024-06-11 16:47:55,228.foodA_consumer.WARNING 05/22/21 18:15:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:47:58,245.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:15:40 is 161.4
+2024-06-11 16:47:58,245.foodA_consumer.WARNING 05/22/21 18:15:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:48:10,321.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:16:35 is 161.5
+2024-06-11 16:48:10,322.foodA_consumer.WARNING 05/22/21 18:16:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:48:13,338.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:16:40 is 161.5
+2024-06-11 16:48:13,338.foodA_consumer.WARNING 05/22/21 18:16:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:48:25,426.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:17:35 is 161.5
+2024-06-11 16:48:25,426.foodA_consumer.WARNING 05/22/21 18:17:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:48:28,439.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:17:40 is 161.5
+2024-06-11 16:48:28,439.foodA_consumer.WARNING 05/22/21 18:17:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:48:40,509.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:18:35 is 161.5
+2024-06-11 16:48:40,509.foodA_consumer.WARNING 05/22/21 18:18:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:48:43,527.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:18:40 is 161.5
+2024-06-11 16:48:43,527.foodA_consumer.WARNING 05/22/21 18:18:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:48:55,799.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:19:35 is 161.5
+2024-06-11 16:48:55,800.foodA_consumer.WARNING 05/22/21 18:19:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:48:58,812.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:19:40 is 161.5
+2024-06-11 16:48:58,812.foodA_consumer.WARNING 05/22/21 18:19:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:49:10,944.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:20:35 is 161.5
+2024-06-11 16:49:10,944.foodA_consumer.WARNING 05/22/21 18:20:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:49:13,955.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:20:40 is 161.5
+2024-06-11 16:49:13,956.foodA_consumer.WARNING 05/22/21 18:20:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:49:26,033.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:21:35 is 161.5
+2024-06-11 16:49:26,033.foodA_consumer.WARNING 05/22/21 18:21:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:49:29,049.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:21:40 is 161.5
+2024-06-11 16:49:29,049.foodA_consumer.WARNING 05/22/21 18:21:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:49:41,126.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:22:35 is 161.5
+2024-06-11 16:49:41,127.foodA_consumer.WARNING 05/22/21 18:22:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:49:44,139.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:22:40 is 161.5
+2024-06-11 16:49:44,140.foodA_consumer.WARNING 05/22/21 18:22:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:49:56,221.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:23:35 is 161.4
+2024-06-11 16:49:56,223.foodA_consumer.WARNING 05/22/21 18:23:35: FOOD A STALL ALERT! Temperature change is 0.0 F in 10.0 minutes.
+2024-06-11 16:49:59,235.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:23:40 is 161.4
+2024-06-11 16:49:59,235.foodA_consumer.WARNING 05/22/21 18:23:40: FOOD A STALL ALERT! Temperature change is 0.0 F in 10.0 minutes.
+2024-06-11 16:50:11,303.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:24:35 is 161.5
+2024-06-11 16:50:11,303.foodA_consumer.WARNING 05/22/21 18:24:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:50:14,314.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:24:40 is 161.5
+2024-06-11 16:50:14,314.foodA_consumer.WARNING 05/22/21 18:24:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:50:26,399.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:25:35 is 161.5
+2024-06-11 16:50:26,399.foodA_consumer.WARNING 05/22/21 18:25:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:50:29,414.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:25:40 is 161.5
+2024-06-11 16:50:29,414.foodA_consumer.WARNING 05/22/21 18:25:40: FOOD A STALL ALERT! Temperature change is 0.0 F in 10.0 minutes.
+2024-06-11 16:50:41,589.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:26:35 is 161.5
+2024-06-11 16:50:41,589.foodA_consumer.WARNING 05/22/21 18:26:35: FOOD A STALL ALERT! Temperature change is 0.0 F in 10.0 minutes.
+2024-06-11 16:50:44,606.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:26:40 is 161.5
+2024-06-11 16:50:44,606.foodA_consumer.WARNING 05/22/21 18:26:40: FOOD A STALL ALERT! Temperature change is 0.0 F in 10.0 minutes.
+2024-06-11 16:50:56,675.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:27:35 is 161.5
+2024-06-11 16:50:56,675.foodA_consumer.WARNING 05/22/21 18:27:35: FOOD A STALL ALERT! Temperature change is 0.0 F in 10.0 minutes.
+2024-06-11 16:50:59,688.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:27:40 is 161.5
+2024-06-11 16:50:59,688.foodA_consumer.WARNING 05/22/21 18:27:40: FOOD A STALL ALERT! Temperature change is 0.0 F in 10.0 minutes.
+2024-06-11 16:51:11,755.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:28:35 is 161.6
+2024-06-11 16:51:11,755.foodA_consumer.WARNING 05/22/21 18:28:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:51:14,771.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:28:40 is 161.6
+2024-06-11 16:51:14,773.foodA_consumer.WARNING 05/22/21 18:28:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:51:26,849.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:29:35 is 161.6
+2024-06-11 16:51:26,849.foodA_consumer.WARNING 05/22/21 18:29:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:51:29,867.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:29:40 is 161.6
+2024-06-11 16:51:29,867.foodA_consumer.WARNING 05/22/21 18:29:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:51:41,987.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:30:35 is 161.6
+2024-06-11 16:51:41,988.foodA_consumer.WARNING 05/22/21 18:30:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:51:45,000.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:30:40 is 161.6
+2024-06-11 16:51:45,000.foodA_consumer.WARNING 05/22/21 18:30:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:51:57,066.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:31:35 is 161.6
+2024-06-11 16:51:57,066.foodA_consumer.WARNING 05/22/21 18:31:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:52:00,082.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:31:40 is 161.6
+2024-06-11 16:52:00,083.foodA_consumer.WARNING 05/22/21 18:31:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:52:12,149.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:32:35 is 161.6
+2024-06-11 16:52:12,149.foodA_consumer.WARNING 05/22/21 18:32:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:52:15,164.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:32:40 is 161.6
+2024-06-11 16:52:15,165.foodA_consumer.WARNING 05/22/21 18:32:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:52:27,264.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:33:35 is 161.6
+2024-06-11 16:52:27,264.foodA_consumer.WARNING 05/22/21 18:33:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:52:30,281.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:33:40 is 161.6
+2024-06-11 16:52:30,281.foodA_consumer.WARNING 05/22/21 18:33:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:52:42,405.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:34:35 is 161.6
+2024-06-11 16:52:42,405.foodA_consumer.WARNING 05/22/21 18:34:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:52:45,422.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:34:40 is 161.6
+2024-06-11 16:52:45,422.foodA_consumer.WARNING 05/22/21 18:34:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:52:57,498.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:35:35 is 161.6
+2024-06-11 16:52:57,499.foodA_consumer.WARNING 05/22/21 18:35:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:53:00,511.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:35:40 is 161.6
+2024-06-11 16:53:00,511.foodA_consumer.WARNING 05/22/21 18:35:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:53:12,596.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:36:35 is 161.6
+2024-06-11 16:53:12,596.foodA_consumer.WARNING 05/22/21 18:36:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:53:15,610.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:36:40 is 161.6
+2024-06-11 16:53:15,611.foodA_consumer.WARNING 05/22/21 18:36:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:53:27,693.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:37:35 is 161.6
+2024-06-11 16:53:27,693.foodA_consumer.WARNING 05/22/21 18:37:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:53:30,706.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:37:40 is 161.6
+2024-06-11 16:53:30,706.foodA_consumer.WARNING 05/22/21 18:37:40: FOOD A STALL ALERT! Temperature change is 0.0 F in 10.0 minutes.
+2024-06-11 16:53:42,960.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:38:35 is 161.6
+2024-06-11 16:53:42,960.foodA_consumer.WARNING 05/22/21 18:38:35: FOOD A STALL ALERT! Temperature change is 0.0 F in 10.0 minutes.
+2024-06-11 16:53:45,975.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:38:40 is 161.6
+2024-06-11 16:53:45,976.foodA_consumer.WARNING 05/22/21 18:38:40: FOOD A STALL ALERT! Temperature change is 0.0 F in 10.0 minutes.
+2024-06-11 16:53:58,065.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:39:35 is 161.7
+2024-06-11 16:53:58,066.foodA_consumer.WARNING 05/22/21 18:39:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:54:01,078.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:39:40 is 161.7
+2024-06-11 16:54:01,078.foodA_consumer.WARNING 05/22/21 18:39:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:54:13,149.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:40:35 is 161.7
+2024-06-11 16:54:13,149.foodA_consumer.WARNING 05/22/21 18:40:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:54:16,165.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:40:40 is 161.7
+2024-06-11 16:54:16,166.foodA_consumer.WARNING 05/22/21 18:40:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:54:28,282.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:41:35 is 161.7
+2024-06-11 16:54:28,282.foodA_consumer.WARNING 05/22/21 18:41:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:54:31,296.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:41:40 is 161.7
+2024-06-11 16:54:31,296.foodA_consumer.WARNING 05/22/21 18:41:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:54:43,367.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:42:35 is 161.8
+2024-06-11 16:54:43,367.foodA_consumer.WARNING 05/22/21 18:42:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:54:46,378.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:42:40 is 161.8
+2024-06-11 16:54:46,378.foodA_consumer.WARNING 05/22/21 18:42:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:54:58,454.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:43:35 is 161.8
+2024-06-11 16:54:58,454.foodA_consumer.WARNING 05/22/21 18:43:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:55:01,465.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:43:40 is 161.8
+2024-06-11 16:55:01,465.foodA_consumer.WARNING 05/22/21 18:43:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:55:13,530.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:44:35 is 161.8
+2024-06-11 16:55:13,530.foodA_consumer.WARNING 05/22/21 18:44:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:55:16,539.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:44:40 is 161.8
+2024-06-11 16:55:16,540.foodA_consumer.WARNING 05/22/21 18:44:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:55:28,614.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:45:35 is 161.8
+2024-06-11 16:55:28,615.foodA_consumer.WARNING 05/22/21 18:45:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:55:31,628.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:45:40 is 161.8
+2024-06-11 16:55:31,628.foodA_consumer.WARNING 05/22/21 18:45:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:55:43,692.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:46:35 is 161.8
+2024-06-11 16:55:43,692.foodA_consumer.WARNING 05/22/21 18:46:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:55:46,704.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:46:40 is 161.8
+2024-06-11 16:55:46,704.foodA_consumer.WARNING 05/22/21 18:46:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:55:58,767.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:47:35 is 161.9
+2024-06-11 16:55:58,768.foodA_consumer.WARNING 05/22/21 18:47:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:56:01,793.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:47:40 is 161.9
+2024-06-11 16:56:01,794.foodA_consumer.WARNING 05/22/21 18:47:40: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:56:13,878.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:48:35 is 161.9
+2024-06-11 16:56:13,878.foodA_consumer.WARNING 05/22/21 18:48:35: FOOD A STALL ALERT! Temperature change is 0.3 F in 10.0 minutes.
+2024-06-11 16:56:16,893.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:48:40 is 161.9
+2024-06-11 16:56:16,893.foodA_consumer.WARNING 05/22/21 18:48:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:56:28,969.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:49:35 is 161.9
+2024-06-11 16:56:28,969.foodA_consumer.WARNING 05/22/21 18:49:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:56:31,983.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:49:40 is 161.9
+2024-06-11 16:56:31,983.foodA_consumer.WARNING 05/22/21 18:49:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:56:44,050.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:50:35 is 161.9
+2024-06-11 16:56:44,050.foodA_consumer.WARNING 05/22/21 18:50:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:56:47,066.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:50:40 is 161.9
+2024-06-11 16:56:47,066.foodA_consumer.WARNING 05/22/21 18:50:40: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:56:59,140.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:51:35 is 161.9
+2024-06-11 16:56:59,140.foodA_consumer.WARNING 05/22/21 18:51:35: FOOD A STALL ALERT! Temperature change is 0.2 F in 10.0 minutes.
+2024-06-11 16:57:02,153.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:51:40 is 161.9
+2024-06-11 16:57:02,153.foodA_consumer.WARNING 05/22/21 18:51:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:57:14,227.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:52:35 is 161.9
+2024-06-11 16:57:14,227.foodA_consumer.WARNING 05/22/21 18:52:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:57:17,240.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:52:40 is 161.9
+2024-06-11 16:57:17,240.foodA_consumer.WARNING 05/22/21 18:52:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:57:29,308.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:53:35 is 161.9
+2024-06-11 16:57:29,308.foodA_consumer.WARNING 05/22/21 18:53:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:57:32,323.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:53:40 is 161.9
+2024-06-11 16:57:32,324.foodA_consumer.WARNING 05/22/21 18:53:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:57:44,385.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:54:35 is 161.9
+2024-06-11 16:57:44,386.foodA_consumer.WARNING 05/22/21 18:54:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:57:47,400.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:54:40 is 161.9
+2024-06-11 16:57:47,401.foodA_consumer.WARNING 05/22/21 18:54:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:57:59,474.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:55:35 is 161.9
+2024-06-11 16:57:59,474.foodA_consumer.WARNING 05/22/21 18:55:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:58:02,485.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:55:40 is 161.9
+2024-06-11 16:58:02,485.foodA_consumer.WARNING 05/22/21 18:55:40: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:58:14,554.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:56:35 is 161.9
+2024-06-11 16:58:14,555.foodA_consumer.WARNING 05/22/21 18:56:35: FOOD A STALL ALERT! Temperature change is 0.1 F in 10.0 minutes.
+2024-06-11 16:58:17,571.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:56:40 is 161.9
+2024-06-11 16:58:17,571.foodA_consumer.WARNING 05/22/21 18:56:40: FOOD A STALL ALERT! Temperature change is 0.0 F in 10.0 minutes.
+2024-06-11 16:58:29,639.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:57:35 is 161.8
+2024-06-11 16:58:29,639.foodA_consumer.WARNING 05/22/21 18:57:35: FOOD A STALL ALERT! Temperature change is -0.1 F in 10.0 minutes.
+2024-06-11 16:58:32,655.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:57:40 is 161.8
+2024-06-11 16:58:32,656.foodA_consumer.WARNING 05/22/21 18:57:40: FOOD A STALL ALERT! Temperature change is -0.1 F in 10.0 minutes.
+2024-06-11 16:58:44,761.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:58:35 is 161.8
+2024-06-11 16:58:44,761.foodA_consumer.WARNING 05/22/21 18:58:35: FOOD A STALL ALERT! Temperature change is -0.1 F in 10.0 minutes.
+2024-06-11 16:58:47,778.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:58:40 is 161.8
+2024-06-11 16:58:47,779.foodA_consumer.WARNING 05/22/21 18:58:40: FOOD A STALL ALERT! Temperature change is -0.1 F in 10.0 minutes.
+2024-06-11 16:58:59,880.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:59:35 is 161.8
+2024-06-11 16:58:59,880.foodA_consumer.WARNING 05/22/21 18:59:35: FOOD A STALL ALERT! Temperature change is -0.1 F in 10.0 minutes.
+2024-06-11 16:59:02,897.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 18:59:40 is 161.8
+2024-06-11 16:59:02,897.foodA_consumer.WARNING 05/22/21 18:59:40: FOOD A STALL ALERT! Temperature change is -0.1 F in 10.0 minutes.
+2024-06-11 16:59:15,030.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:00:35 is 161.7
+2024-06-11 16:59:15,030.foodA_consumer.WARNING 05/22/21 19:00:35: FOOD A STALL ALERT! Temperature change is -0.2 F in 10.0 minutes.
+2024-06-11 16:59:18,047.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:00:40 is 161.7
+2024-06-11 16:59:18,047.foodA_consumer.WARNING 05/22/21 19:00:40: FOOD A STALL ALERT! Temperature change is -0.2 F in 10.0 minutes.
+2024-06-11 16:59:30,125.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:01:35 is 161.7
+2024-06-11 16:59:30,126.foodA_consumer.WARNING 05/22/21 19:01:35: FOOD A STALL ALERT! Temperature change is -0.2 F in 10.0 minutes.
+2024-06-11 16:59:33,143.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:01:40 is 161.7
+2024-06-11 16:59:33,143.foodA_consumer.WARNING 05/22/21 19:01:40: FOOD A STALL ALERT! Temperature change is -0.2 F in 10.0 minutes.
+2024-06-11 16:59:45,220.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:02:35 is 161.6
+2024-06-11 16:59:45,220.foodA_consumer.WARNING 05/22/21 19:02:35: FOOD A STALL ALERT! Temperature change is -0.3 F in 10.0 minutes.
+2024-06-11 16:59:48,230.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:02:40 is 161.6
+2024-06-11 16:59:48,230.foodA_consumer.WARNING 05/22/21 19:02:40: FOOD A STALL ALERT! Temperature change is -0.3 F in 10.0 minutes.
+2024-06-11 17:00:00,305.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:03:35 is 161.6
+2024-06-11 17:00:00,305.foodA_consumer.WARNING 05/22/21 19:03:35: FOOD A STALL ALERT! Temperature change is -0.3 F in 10.0 minutes.
+2024-06-11 17:00:03,317.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:03:40 is 161.6
+2024-06-11 17:00:03,317.foodA_consumer.WARNING 05/22/21 19:03:40: FOOD A STALL ALERT! Temperature change is -0.3 F in 10.0 minutes.
+2024-06-11 17:00:15,396.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:04:35 is 161.6
+2024-06-11 17:00:15,396.foodA_consumer.WARNING 05/22/21 19:04:35: FOOD A STALL ALERT! Temperature change is -0.3 F in 10.0 minutes.
+2024-06-11 17:00:18,411.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:04:40 is 161.6
+2024-06-11 17:00:18,411.foodA_consumer.WARNING 05/22/21 19:04:40: FOOD A STALL ALERT! Temperature change is -0.3 F in 10.0 minutes.
+2024-06-11 17:00:30,484.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:05:35 is 161.6
+2024-06-11 17:00:30,484.foodA_consumer.WARNING 05/22/21 19:05:35: FOOD A STALL ALERT! Temperature change is -0.3 F in 10.0 minutes.
+2024-06-11 17:00:33,504.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:05:40 is 161.6
+2024-06-11 17:00:33,504.foodA_consumer.WARNING 05/22/21 19:05:40: FOOD A STALL ALERT! Temperature change is -0.3 F in 10.0 minutes.
+2024-06-11 17:00:45,586.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:06:35 is 161.6
+2024-06-11 17:00:45,587.foodA_consumer.WARNING 05/22/21 19:06:35: FOOD A STALL ALERT! Temperature change is -0.3 F in 10.0 minutes.
+2024-06-11 17:00:48,605.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:06:40 is 161.6
+2024-06-11 17:00:48,606.foodA_consumer.WARNING 05/22/21 19:06:40: FOOD A STALL ALERT! Temperature change is -0.2 F in 10.0 minutes.
+2024-06-11 17:01:00,684.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:07:35 is 161.6
+2024-06-11 17:01:00,685.foodA_consumer.WARNING 05/22/21 19:07:35: FOOD A STALL ALERT! Temperature change is -0.2 F in 10.0 minutes.
+2024-06-11 17:01:03,695.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:07:40 is 161.6
+2024-06-11 17:01:03,695.foodA_consumer.WARNING 05/22/21 19:07:40: FOOD A STALL ALERT! Temperature change is -0.2 F in 10.0 minutes.
+2024-06-11 17:01:15,771.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:08:35 is 161.6
+2024-06-11 17:01:15,771.foodA_consumer.WARNING 05/22/21 19:08:35: FOOD A STALL ALERT! Temperature change is -0.2 F in 10.0 minutes.
+2024-06-11 17:01:18,784.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:08:40 is 161.6
+2024-06-11 17:01:18,785.foodA_consumer.WARNING 05/22/21 19:08:40: FOOD A STALL ALERT! Temperature change is -0.2 F in 10.0 minutes.
+2024-06-11 17:01:30,854.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:09:35 is 161.6
+2024-06-11 17:01:30,855.foodA_consumer.WARNING 05/22/21 19:09:35: FOOD A STALL ALERT! Temperature change is -0.2 F in 10.0 minutes.
+2024-06-11 17:01:33,870.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:09:40 is 161.6
+2024-06-11 17:01:33,871.foodA_consumer.WARNING 05/22/21 19:09:40: FOOD A STALL ALERT! Temperature change is -0.1 F in 10.0 minutes.
+2024-06-11 17:01:45,956.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:10:35 is 161.6
+2024-06-11 17:01:45,956.foodA_consumer.WARNING 05/22/21 19:10:35: FOOD A STALL ALERT! Temperature change is -0.1 F in 10.0 minutes.
+2024-06-11 17:01:48,972.foodA_consumer.INFO  [x] Received Temperature at 05/22/21 19:10:40 is 161.6
+2024-06-11 17:01:48,972.foodA_consumer.WARNING 05/22/21 19:10:40: FOOD A STALL ALERT! Temperature change is -0.1 F in 10.0 minutes.
+2024-06-11 17:02:03,577.foodA_consumer.ERROR  User interrupted continuous listening process.
+2024-06-11 17:02:03,577.foodA_consumer.INFO Closing connection. Goodbye.
