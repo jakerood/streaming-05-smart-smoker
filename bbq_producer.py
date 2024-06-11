@@ -5,7 +5,7 @@
 
 
     Author: Jake Rood
-    Date: June 2, 2024
+    Date: June 7, 2024
 
 """
 
@@ -62,7 +62,7 @@ def send_message(host: str, queue_name: str, message: str):
         # every message passes through an exchange
         ch.basic_publish(exchange="", routing_key=queue_name, body=message)
         # log a message for the user
-        logger.info(f" [x] Sent {message} to {queue_name}")
+        logger.info(f" [x] Sent to {queue_name}: {message}")
     except pika.exceptions.AMQPConnectionError as e:
         logger.error(f"Error: Connection to RabbitMQ server failed: {e}")
         sys.exit(1)
@@ -78,16 +78,20 @@ def read_send_tasks(file_name: str, host: str):
         reader = csv.reader(input_file)
         next(reader) # skip header row
         for row in reader:
+            timestamp = row[0] # first column in CSV file is timestamp
             smoker_temp = row[1] # second column in CSV file is smoker_temp
             food_A_temp = row[2] # third column in CSV file is food_A_temp
             food_B_temp = row[3] # fourth column in CSV file is food_B_temp
 
             if smoker_temp:
-                send_message(host, queue_01, smoker_temp) # send smoker_temp to queue defined as queue_01
+                message = f"Temperature at {timestamp} is {smoker_temp}"
+                send_message(host, queue_01, message) # send smoker_temp to queue defined as queue_01
             if food_A_temp:
-                send_message(host, queue_02, food_A_temp) # send food_A_temp to queue defined as queue_02
+                message = f"Temperature at {timestamp} is {food_A_temp}"
+                send_message(host, queue_02, message) # send food_A_temp to queue defined as queue_02
             if food_B_temp:
-                send_message(host, queue_03, food_B_temp) # send food_B_temp to queue defined as queue_03
+                message = f"Temperature at {timestamp} is {food_B_temp}"
+                send_message(host, queue_03, message) # send food_B_temp to queue defined as queue_03
             
             # Sleep for the defined interval
             time.sleep(sleep_secs)
